@@ -1,0 +1,119 @@
+html, body {
+    background: #222 url("images/broken_noise.png");
+    padding: 0;
+    margin: 0;
+    color: #999;
+    font-family: "open-sans", "Helvetica Neue", "Helvetica";
+    text-rendering: optimizeLegibility;
+}
+
+#container {
+
+}
+
+hr {
+    border: 1px dashed;
+    width: 300px;
+    padding-top: 50px;
+}
+
+img {
+    display: block;
+    margin: 50px auto;
+}
+.with-shadow {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+}
+iframe {
+    display: block;
+    margin: 50px auto;
+    border: 10px solid rgba(0, 0, 0, 0.1);
+}
+h1 {
+    border: 1px dashed;
+    padding: 20px;
+    color: #fc0;
+    font-size: 4em;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 40px auto 0px auto;
+    line-height: 1.2em;
+    text-align: center;
+    width: 660px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 150px;
+    font-weight: 700;
+}
+h3 {
+    text-align: center;
+    font-weight: 700;
+}
+p {
+    max-width: 600px;
+    margin: 40px auto;
+    font-size: 18px;
+    line-height: 1.3em;
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.8);
+}
+
+
+.photoStack {
+    width: 80%;
+    margin: 2.1em auto 2.8em auto;
+}
+
+.photoStack.stacked .photo {
+    cursor: pointer;
+}
+
+.photoStack .photo,
+.photoStack .photoDummy {
+    -webkit-transition-property: -webkit-transform;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: ease-in-out;
+    -webkit-transform-origin: center center;
+    -moz-transition-property: -moz-transform;
+    -moz-transition-duration: 0.5s;
+    -moz-transition-timing-function: ease-in-out;
+    -moz-transform-origin: center center;
+    width: 100%;
+}
+
+.photoStack .photo img,
+.photoStack .photoDummy img {
+    width: 100%;
+    display: block;
+    margin: 0 !important;
+}
+
+.photoStack .photo.framed,
+.photoStack .photoDummy.framed {
+    background: #fafafa;
+    padding: 5px;
+    border: solid 1px #ccc;
+    box-shadow: 0 2px 5px hsla(0, 0%, 0%, 0.3);
+}
+
+.photoStack .photo.framed img,
+.photoStack .photoDummy.framed img {
+    border: solid 1px #ccc;
+}
+
+#rest .photoStack .caption {
+    margin-top: 1.4em;
+    margin-bottom: 0;
+    font-weight: bold;
+    color: #bbb;
+    font-style: italic;
+}
+
+.photoStack .caption a {
+    color: #A1AAC1;
+}
+
+.photoStack .caption a:hover {
+    color: #3C98E9;
+}

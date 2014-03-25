@@ -1,0 +1,42 @@
+h1, h2 {
+    font-family: "ff-meta-serif-web-pro", "Georgia", "Times New Roman", serif;
+}
+h1 {
+    color: #fc0;
+    font-size: 2em;
+    line-height: 1.2em;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 1.5em;
+    line-height: 1.3em;
+    font-style: italic;
+    font-weight: normal;
+    margin-top: 1em;
+}
+
+h3 {
+    color: #333;
+    font-weight: bold;
+}
+
+h4 {
+    font-weight: 700;
+    color: #333;
+    font-size: 1em;
+    line-height: 1.3em;
+    margin-bottom: 10px;
+}
+
+h5 {
+    font-size: 1.3em;
+    color: #333;
+}
+
+li {
+    display: inline-block;
+    margin: 10px 5px 0px 0px;
+    vertical-align: top;
+    font-weight: bold;
+}

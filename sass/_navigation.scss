@@ -1,0 +1,105 @@
+nav {
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+    padding: 0px 10px;
+    line-height: 24px;
+    -webkit-backface-visibility: hidden;
+    margin-left: -180px;
+}
+.nav-visible {
+    top: 0px !important;
+}
+nav #nav-main {
+    position: relative;
+    top: -1000px;
+    width: 120px;
+    background: #fc0;
+    padding-top: 18px;
+    padding-bottom: 20px;
+    text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2);
+    color: #111;
+    text-align: center;
+    -moz-transition: top 0.4s ease-in-out;
+    -webkit-transition: top 0.4s ease-in-out;
+    transition: top 0.4s ease-in-out;
+}
+nav a h4 {
+    -moz-transition: color 0.25s ease-in;
+    -webkit-transition: color 0.25s ease-in;
+    transition: color 0.25s ease-in;
+}
+#nav-home a:hover {
+    text-decoration: none;   
+}
+nav a h4:hover {
+    color: #fff;
+}
+nav ul li {
+    margin: 0px;
+}
+nav ul li a h3 {
+    background: transparent url("../images/purple.png") repeat-y;
+    background-position: -200px 0px;
+    display: inline;
+    overflow: visible;
+    position: relative;
+    left: 2px;
+    padding: 2px;
+    margin-bottom: 4px;
+    -moz-transition: background-position 0.25s ease-in, color 0.25s ease-in, text-shadow 0.1s ease-in;
+    -webkit-transition: background-position 0.25s ease-in, color 0.25s ease-in, text-shadow 0.1s ease-in;
+    transition: background-position 0.25s ease-in, color 0.25s ease-in, text-shadow 0.1s ease-in;
+}
+nav ul li:hover a h3 {
+    color: #fff;
+    text-decoration: none;
+}
+nav .subline {
+    font-weight: 700;
+    margin-top: 8px;
+    font-size: 9px;
+}
+nav li {
+    line-height: 14px !important;
+}
+nav a:hover {
+    color: #fff;
+}
+nav ul li a:hover {
+    text-decoration: none !important;
+}
+.selected {
+    background-position: 0px 0px;
+    color: #fff;
+}
+.striked {
+    text-decoration: line-through;
+}
+nav h3 {
+    font-size: 1.2em;
+}
+nav ul {
+    padding-top: 20px;
+    list-style-type: none;
+}
+nav .notch {
+    position: relative;
+    left: 0px;
+    top: 30px;
+    border-top: 0px solid #fc0;
+    border-right: 60px solid #fc0;
+    border-bottom: 35px solid transparent;
+    border-left: 60px solid #fc0;
+}
+
+nav .border-notch { 
+    position: relative;
+    left: 0px;
+    z-index: -100;
+    bottom: 36px;
+    border-top: 0px solid rgba(0,0,0,0.1);
+    border-right: 60px solid rgba(0,0,0,0.1);
+    border-bottom: 35px solid transparent;
+    border-left: 60px solid rgba(0,0,0,0.1);
+}

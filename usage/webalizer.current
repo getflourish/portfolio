@@ -1,0 +1,2892 @@
+# Webalizer V2.23-05 Incremental Data - 10/09/2013 23:59:15
+2013 10 9 23 59 15
+1023977 1023327 439 217 76 226 342676630 1019288 1507 0
+135 96 14711 1 9
+135249 135212 30484748 119 134797 130
+134435 134413 41120236 145 133886 148
+144822 144782 25666092 110 144481 121
+138811 138758 42973377 105 138435 120
+145848 145825 10498699 108 145722 122
+161593 161448 47933828 121 160901 135
+140075 139874 68993936 139 139048 144
+21733 21697 32565766 138 21228 540
+1411 1318 42439948 135 790 539
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+59883 59860 13885039 59692
+56130 56118 2347426 56081
+48374 48354 2307966 48342
+45726 45706 2111014 45680
+43255 43236 2965425 43181
+39010 39003 6289675 38903
+34959 34945 5607167 34863
+31668 31665 2463204 31613
+29836 29826 24470523 29589
+28389 28387 4692682 28290
+29338 29323 3594514 29256
+29013 29008 19346884 28764
+32412 32400 48158478 31868
+36935 36775 22266798 36519
+39195 39177 19088489 38967
+41815 41779 30150344 41443
+43825 43769 20983753 43556
+46860 46797 27308519 46524
+48393 48376 7235604 48242
+51075 51028 35478961 50677
+50255 50209 13506517 50013
+52057 52041 3216084 52015
+53590 53581 11541939 53445
+51984 51964 13659625 51765
+0
+0
+0
+1023327
+0
+0
+0
+0
+0
+14
+0
+13
+0
+0
+372
+0
+0
+0
+0
+0
+37
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+203
+0
+0
+0
+0
+0
+# -urls- 
+/here/js/jquery.js
+1 10 0 165660 0 0
+/hochzeitsfotos/style.css
+1 1 0 343 0 0
+/hochzeitsfotos/images/normal-8.jpg
+1 1 0 110310 0 0
+/here/
+0 1 0 431 0 0
+/cresc/wp/wp-content/themes/cresc/images/photo.png
+1 2 0 881265 0 0
+/cresc/wp/wp-content/themes/cresc/_/js/scripts.js
+1 1 0 474 0 0
+/cresc/wp/wp-content/themes/cresc/images/twitter.png
+1 1 0 1172 0 0
+/stt/screenshot2.png
+1 191 0 14367990 0 0
+/zurich/js/isortope.js
+1 16 0 20472 0 0
+/hochzeitsfotos/images/wide-34.jpg
+1 1 0 315870 0 0
+/hochzeitsfotos/images/normal-10.jpg
+1 1 7886769845485514341 207718 0 0
+/images/projects/glowified/5.png
+1 23 4121125918539329123 4454019 0 0
+/images/thumbnails/tesa-360.png
+1 90 5739551216425579566 4455600 0 0
+/images/ajax-loader.gif
+1 78 7074711324637422382 49129 0 0
+/stt/
+0 479 3543825147939061760 1160708 134 117
+/hochzeitsfotos/images/wide-51.jpg
+1 1 121453864120163 393686 0 0
+/here/css/print.css
+1 2 3544614381717291008 2266 0 0
+/cresc/wp/wp-content/themes/cresc/images/rss.png
+1 1 0 1289 0 0
+/zurich/js/heatmap.js
+1 16 0 47536 0 0
+/hochzeitsfotos/images/wide-35.jpg
+1 1 0 458865 0 0
+/hochzeitsfotos/images/normal-15.jpg
+1 1 0 89470 0 0
+/style.css
+1 210 0 825102 0 0
+/hochzeitsfotos/images/normal-67.jpg
+1 1 0 180860 0 0
+/cresc/wp/wp-content/uploads/2013/03/2013-01-10-12.45.13-copy1.jpeg
+1 4 0 0 0 0
+/zurich/js/isotope.js
+1 16 0 87184 0 0
+/here/js/rasterizeHTML.allinone.js
+1 2 0 31674 0 0
+/js/jquery.lazyload.min.js
+1 185 0 160808 0 0
+/images/projects/navel/photo1.jpg
+1 18 0 1199772 0 0
+/zurich/css/style.css
+1 17 0 18045 0 0
+/zurich/js/jquery.js
+1 16 0 244490 0 0
+/hochzeitsfotos/js/jquery.lazyload.min.js
+1 1 0 1144 0 0
+/here/js/jquery-ui-1.8.16.custom.min.js
+1 10 0 264905 0 0
+/images/projects/glowified/3.png
+1 23 0 1594176 0 0
+/zurich/js/stickytableheaders.js
+1 13 0 8448 0 0
+/hochzeitsfotos/images/IMG_3420.jpg
+1 1 0 125005 0 0
+/images/projects/logbook/tech.png
+1 34 0 1278026 0 0
+/images/projects/navel/1.jpg
+1 18 0 1863630 0 0
+/hochzeitsfotos/images/normal-11.jpg
+1 1 0 133152 0 0
+/hochzeitsfotos/images/normal-66.jpg
+1 1 0 67078 0 0
+/images/projects/glowified/5.jpg
+1 23 0 944035 0 0
+/images/thumbnails/navel-360.png
+1 90 0 8582262 0 0
+/here/php/photo.php
+0 2 0 712 0 0
+/hochzeitsfotos/images/wide-45.jpg
+1 1 0 260134 0 0
+/hochzeitsfotos/images/normal-9.jpg
+1 1 0 140361 0 0
+/hochzeitsfotos/images/IMG_3552.jpg
+1 1 0 83299 0 0
+/hochzeitsfotos/images/normal-40.jpg
+1 1 0 136928 0 0
+/images/thumbnails/logbook-360.png
+1 95 0 4660616 0 0
+/hochzeitsfotos/images/normal-33.jpg
+1 1 0 138076 0 0
+/here/php/getPrint.php
+0 1 0 22 0 0
+/here/screen.php
+0 1 0 2334 0 0
+/images/projects/kaktus/kaktus-2.png
+1 23 0 10350322 0 0
+/snowviz/js/ThreeCanvas.js
+1 1 0 18348 0 0
+/images/projects/logbook/img3.png
+1 39 0 7979478 0 0
+/hochzeitsfotos/images/normal-29.jpg
+1 1 0 95715 0 0
+/hochzeitsfotos/images/IMG_3460.jpg
+1 1 0 81461 0 0
+/here/here.html
+0 10 0 10810 4 0
+/cresc/wp/wp-content/themes/cresc/style.css
+1 1 0 2779 0 0
+/images/projects/glowified/diffusion.jpg
+1 23 0 1891267 0 0
+/here/fonts/opensans_bold_macroman/OpenSans-Bold-webfont.woff
+0 3 0 67296 0 0
+/images/projects/happy-virus/setup.jpg
+1 28 0 865788 0 0
+/hochzeitsfotos/images/wide-59.jpg
+1 1 0 339300 0 0
+/hochzeitsfotos/images/normal-23.jpg
+1 1 0 109441 0 0
+/here/js/leaflet/MarkerCluster.css
+1 9 0 564 0 0
+/here/js/leaflet/leaflet.css
+1 9 0 9324 0 0
+/images/projects/chummy/Quick-Reply.png
+1 43 0 15794184 0 0
+/images/projects/logbook/phones-2.png
+1 36 0 8438868 0 0
+/hochzeitsfotos/images/normal-62.jpg
+1 1 0 187380 0 0
+/images/projects/conscape/1.png
+1 33 0 13397802 0 0
+/hochzeitsfotos/js/jquery.js
+1 1 0 33430 0 0
+/cresc/wp/wp-content/themes/cresc/_/js/modernizr-1.7.min.js
+1 1 0 3688 0 0
+/hochzeitsfotos/images/IMG_3430.jpg
+1 1 0 166256 0 0
+/hochzeitsfotos/images/wide-57.jpg
+1 1 0 294558 0 0
+/images/me-bw-2.png
+1 84 0 5490342 0 0
+/here/php/photoLocations.php
+0 22 0 2159527 0 4
+/cresc/wp/wp-content/themes/cresc/_/js/functions.js
+1 1 0 172 0 0
+/images/projects/chummy/Compose.png
+1 39 3905747876348690432 16964142 0 0
+/hochzeitsfotos/images/IMG_4164.jpg
+1 1 1952804398 116827 0 0
+/images/projects/happy-virus/1.jpg
+1 29 7146776615256485754 1187289 0 0
+/images/placeholder.png
+1 87 114775190693236 75932 0 0
+/here/js/leaflet/leaflet.markercluster.js
+1 9 8319664936732273976 27928 0 0
+/js/waypoints.min.js
+1 185 9367823912487301425 250476 0 0
+/here/print.php
+0 2 7885630522644312365 4415 0 0
+/images/projects/motion-graphics/opener-2.png
+1 21 8462877692941921582 9181284 0 0
+/images/projects/chummy/Sketch.jpg
+1 39 0 3596346 0 0
+/hochzeitsfotos/images/wide-1.jpg
+1 1 0 220007 0 0
+/hochzeitsfotos/images/wide-24.jpg
+1 1 0 328139 0 0
+/snowviz/js/Particles.js
+1 1 0 586 0 0
+/here/php/fetch.php
+0 217 0 37196 4 4
+/here/css/style.css
+1 8 0 4731 0 0
+/hochzeitsfotos/images/normal-46.jpg
+1 1 0 87817 0 0
+/images/projects/navel/2.jpg
+1 17 0 2117367 0 0
+/hochzeitsfotos/images/normal-55.jpg
+1 1 0 221504 0 0
+/here/css/screen.css
+1 1 0 1267 0 0
+/images/projects/navel/belt.png
+1 20 0 1265720 0 0
+/js/jquery-1.7.1.min.js
+1 189 0 6173768 0 0
+/images/projects/chummy/First-Launch.png
+1 38 0 12291632 0 0
+/zurich/css/datepicker.css
+1 17 0 18512 0 0
+/here/js/jQDateRangeSlider-withRuler-min.js
+1 9 0 39544 0 0
+/hochzeitsfotos/images/normal-12.jpg
+1 1 0 95729 0 0
+/zurich/js/script.js
+1 13 0 27652 0 0
+/hochzeitsfotos/images/IMG_4081.jpg
+1 1 0 77829 0 0
+/here/js/leaflet/MarkerCluster.Default.css
+1 9 0 1236 0 0
+/images/projects/logbook/img2.png
+1 38 0 7717382 0 0
+/hochzeitsfotos/images/normal-2.jpg
+1 1 0 89964 0 0
+/hochzeitsfotos/images/normal-61.jpg
+1 1 0 128683 0 0
+/hochzeitsfotos/images/normal-20.jpg
+1 1 0 132886 0 0
+/hochzeitsfotos/images/normal-42.jpg
+1 1 0 209387 0 0
+/instagram/callback.php
+0 1017384 0 20347680 948 876
+/cresc/wp/wp-content/themes/cresc/images/facebook.png
+1 1 0 1020 0 0
+/images/projects/navel/3.jpg
+1 18 0 1456596 0 0
+/hochzeitsfotos/images/normal-50.jpg
+1 1 0 143009 0 0
+/images/projects/navel/arduino.jpg
+1 18 0 1346130 0 0
+/hochzeitsfotos/images/normal-26.jpg
+1 1 0 100541 0 0
+/images/thumbnails/kaktus-360.png
+1 93 0 7882925 0 0
+/hochzeitsfotos/images/wide-43.jpg
+1 1 0 391100 0 0
+/cresc/wp/
+0 37 0 188552 7 6
+/images/projects/kaktus/kaktus-process-2.jpg
+1 23 0 1367971 0 0
+/here/js/scraper.js
+1 9 0 31121 0 0
+/snowviz/js/THREEx.WindowResize.js
+1 1 0 513 0 0
+/here/css/iThing.css
+1 9 0 3668 0 0
+/here/js/leaflet/leaflet.js
+1 9 0 129296 0 0
+/zurich/
+0 19 0 12733 2 1
+/cresc/wp/wp-content/themes/cresc/_/js/jquery.js
+1 1 0 32775 0 0
+/hochzeitsfotos/images/wide-13.jpg
+1 1 0 271463 0 0
+/images/projects/conscape/2.jpg
+1 31 0 2049782 0 0
+/hochzeitsfotos/js/jquery.isotope.min.js
+1 1 0 4997 0 0
+/images/projects/happy-virus/2.jpg
+1 27 0 1179765 0 0
+/images/thumbnails/glowified-360.png
+1 93 0 4607496 0 0
+/hochzeitsfotos/placeholder.png
+1 1 0 925 0 0
+/hochzeitsfotos/images/IMG_4131.jpg
+1 1 0 134094 0 0
+/hochzeitsfotos/images/normal-16.jpg
+1 1 0 169822 0 0
+/images/projects/happy-virus/5.jpg
+1 25 0 604525 0 0
+/hochzeitsfotos/images/normal-65.jpg
+1 1 0 93674 0 0
+/snowviz/js/Snow.js
+1 1 0 846 0 0
+/snowviz/
+0 1 0 1347 0 0
+/hochzeitsfotos/images/normal-58.jpg
+1 1 0 171807 0 0
+/hochzeitsfotos/images/IMG_3867.jpg
+1 1 0 178940 0 0
+/images/purple.png
+1 81 0 70756 0 0
+/hochzeitsfotos/images/normal-31.jpg
+1 1 0 147154 0 0
+/images/thumbnails/conscape-360.png
+1 100 0 11064064 0 0
+/hochzeitsfotos/xv.png
+1 1 0 37310 0 0
+/cresc/wp/wp-content/themes/cresc/images/photo3.png
+1 3 0 378738 0 0
+/images/thumbnails/hundreds-360.png
+1 92 86470190882173230 7978960 0 0
+/hochzeitsfotos/images/normal-22.jpg
+1 1 3330462743419486464 97919 0 0
+/hochzeitsfotos/images/IMG_4043.jpg
+1 1 88155759303864625 150699 0 0
+/zurich/data.json
+0 13 8317355112703091045 3781947 0 0
+/images/zacken-gelb.png
+1 87 6989586621679009792 82574 0 0
+/images/projects/glowified/4.jpg
+1 24 5254179 444600 0 0
+/stt/style.css
+1 258 3329630370184376878 135615 0 0
+/hochzeitsfotos/images/IMG_3959.jpg
+1 1 18267296 240645 0 0
+/images/projects/happy-virus/3.jpg
+1 26 0 1023906 0 0
+/hochzeitsfotos/images/normal-14.jpg
+1 1 0 107567 0 0
+/hochzeitsfotos/images/wide-25.jpg
+1 1 0 229157 0 0
+/gedanken/fotografie/hdrs.jpg
+1 4 0 604400 0 0
+/hochzeitsfotos/images/normal-63.jpg
+1 1 0 80430 0 0
+/hochzeitsfotos/images/wide-5.jpg
+1 1 0 202026 0 0
+/hochzeitsfotos/js/jquery.infinitescroll.min.js
+1 1 0 11910 0 0
+/here/images/zacken.png
+1 1 0 1299 0 0
+/hochzeitsfotos/script.js
+1 1 0 20 0 0
+/here/fonts/opensans_regular_macroman/OpenSans-Regular-webfont.woff
+0 3 0 67980 0 0
+/hochzeitsfotos/images/wide-37.jpg
+1 1 0 372545 0 0
+/hochzeitsfotos/images/normal-30.jpg
+1 1 0 100963 0 0
+/hochzeitsfotos/images/normal-38.jpg
+1 1 0 195378 0 0
+/hochzeitsfotos/images/normal-39.jpg
+1 1 0 98375 0 0
+/hochzeitsfotos/images/normal-44.jpg
+1 1 0 79704 0 0
+/
+0 749 0 12928359 319 160
+/snowviz/css/style.css
+1 1 0 870 0 0
+/images/projects/chummy/Media.png
+1 41 0 13061360 0 0
+/here/php/mostRecentPhotos.php
+0 10 0 123370 0 0
+/cresc/wp/wp-content/themes/cresc/images/photo2.png
+1 4 0 207986 0 0
+/hochzeitsfotos/images/wide-53.jpg
+1 1 0 403088 0 0
+/images/projects/logbook/img1.png
+1 40 0 7410680 0 0
+/images/projects/glowified/2.png
+1 23 0 8358246 0 0
+/zurich/js/QuadTree.js
+1 13 0 28016 0 0
+/here/js/qrcode.min.js
+1 8 0 21021 0 0
+/images/Icon-Box.png
+1 101 0 105374 0 0
+/zurich/js/bootstrap-datepicker.js
+1 17 0 31728 0 0
+/images/projects/happy-virus/lupita.jpg
+1 18 0 793656 0 0
+/hochzeitsfotos/images/normal-49.jpg
+1 1 0 101803 0 0
+/here/js/html2canvas.min.js
+1 2 0 24752 0 0
+/hochzeitsfotos/images/normal-3.jpg
+1 1 0 81828 0 0
+/gedanken/fotografie/polaroid2.png
+1 3 0 0 0 0
+/cresc/wp/wp-content/themes/cresc/images/logo.png
+1 4 0 2948 0 0
+/cresc/wp/wp-includes/js/comment-reply.min.js
+1 1 0 412 0 0
+/cresc/wp/wp-content/uploads/2013/03/862170_10151475431580208_1023878492_n1.jpg
+1 4 0 0 0 0
+/hochzeitsfotos/images/wide-32.jpg
+1 1 0 227747 0 0
+/snowviz/img/header-clean.png
+1 1 0 37280 0 0
+/images/projects/glowified/4.png
+1 23 0 4257484 0 0
+/hochzeitsfotos/images/normal-48.jpg
+1 1 0 139924 0 0
+/cresc/wp/wp-content/uploads/userphoto/2.jpg
+1 5 0 6534 0 0
+/hochzeitsfotos/images/normal-47.jpg
+1 1 0 100038 0 0
+/stt/detection.js
+1 232 0 191824 0 0
+/images/projects/glowified/1.png
+1 23 0 4121784 0 0
+/hochzeitsfotos/images/normal-54.jpg
+1 1 0 112933 0 0
+/images/projects/conscape/intro.jpg
+1 34 0 2128740 0 0
+/hochzeitsfotos/images/wide-36.jpg
+1 1 0 252108 0 0
+/images/thumbnails/chummy-360.png
+1 95 0 7478881 0 0
+/images/noise-white
+0 154 0 698611 18 35
+/js/hacks.js
+1 185 0 356613 0 0
+/cresc/wp/wp-cron.php
+0 7 0 0 7 6
+/images/me-color-2.png
+1 100 0 10173680 0 0
+/zurich/js/heatmap-leaflet.js
+1 17 0 20403 0 0
+/images/projects/motion-graphics/tesa-concept.png
+1 22 0 1728408 0 0
+/hochzeitsfotos/
+0 1 0 1023 1 0
+/hochzeitsfotos/images/normal-21.jpg
+1 1 0 149333 0 0
+/hochzeitsfotos/images/normal-27.jpg
+1 1 0 96971 0 0
+/hochzeitsfotos/images/normal-60.jpg
+1 1 0 74387 0 0
+/images/projects/motion-graphics/opener-1.png
+1 22 0 9756516 0 0
+/hochzeitsfotos/images/wide-41.jpg
+1 1 0 308127 0 0
+/images/zacken-inverse-gelb.png
+1 75 0 74148 0 0
+/hochzeitsfotos/images/normal-18.jpg
+1 1 0 178615 0 0
+/hochzeitsfotos/images/normal-19.jpg
+1 1 0 73081 0 0
+/hochzeitsfotos/images/wide-64.jpg
+1 1 0 307869 0 0
+/hochzeitsfotos/images/normal-7.jpg
+1 1 0 159253 0 0
+/images/projects/chummy/Icon.jpg
+1 62 0 4231980 0 0
+/snowviz/img/ParticleSmoke.png
+1 1 0 3275 0 0
+/hochzeitsfotos/images/normal-6.jpg
+1 1 0 92289 0 0
+# End Of Table - urls
+# -sites- (monthly)
+rrcs-208-105-90-179.nyc.biz.rr.com
+0 56 56 7328444 0 0
+-
+222-154-112-154.jetstream.xtra.co.nz
+0 6 4 83406 1 1381178203
+/stt/
+ec2-54-226-215-150.compute-1.amazonaws.com
+0 12834 12834 256680 13 1381361888
+/instagram/callback.php
+cpe-68-173-230-203.nyc.res.rr.com
+0 5 4 83209 1 1381198287
+/stt/
+crawl-66-249-66-4.googlebot.com
+0 1 1 10984 1 1380792627
+/
+host-125-165.nss.udel.edu
+0 1 1 78945 0 0
+-
+google-proxy-66-249-83-4.google.com
+0 6 6 133903 5 1381308086
+/
+ec2-54-224-20-191.compute-1.amazonaws.com
+0 16676 16676 333520 11 1381362201
+/instagram/callback.php
+108.red-88-14-144.dynamicip.rima-tde.net
+0 1 1 78945 0 0
+-
+nyufwa-wlessauthclients-06.natpool.nyu.edu
+0 44 44 6195237 0 0
+-
+93-172-207-21.bb.netvision.net.il
+0 1 1 78945 0 0
+-
+118.68.209.96
+0 2 2 157890 0 0
+-
+212.34.185.62
+0 23 23 937939 1 1381310998
+/images/noise-white
+183.96.93.117
+0 1 1 78945 0 0
+-
+182.185.209.209
+0 1 1 78945 0 0
+-
+70-90-161-58-ca.sfba.hfc.comcastbusiness.net
+0 1 1 78945 0 0
+-
+ec2-54-221-19-51.compute-1.amazonaws.com
+0 19868 19868 397360 10 1381355864
+/instagram/callback.php
+121-99-51-239.bng1.tvc.orcon.net.nz
+0 3 1 79311 1 1380903262
+-
+bzq-82-80-234-139.cablep.bezeqint.net
+0 1 1 931 0 0
+-
+xoloop.com
+0 1 1 10984 1 1381192181
+/
+218.93.127.107
+0 1 1 50039 1 1381034714
+/
+msnbot-131-253-26-246.search.msn.com
+0 2 2 13614 1 1381357408
+/
+74.221.209.168
+0 1 1 10984 1 1380604988
+/
+14.139.65.11
+0 1 1 78945 0 0
+-
+152.27.38.20
+0 1 1 78945 0 0
+-
+host2.server4.vpn999.com
+0 1 1 11022 1 1381272094
+/
+crawl-198-27-82-152.meanpathbot.com
+0 2 1 11333 1 1381140423
+/
+83.233.207.74
+0 1 1 50039 1 1381060736
+/
+msnbot-157-55-33-50.search.msn.com
+0 2 2 22044 2 1381269827
+/
+101.164.80.47
+0 2 2 157890 0 0
+-
+cpe-72-179-16-91.austin.res.rr.com
+0 1 1 10984 1 1380936395
+/
+114.79.12.219
+0 1 1 78945 0 0
+-
+mx-ll-180.183.18-190.dynamic.3bb.co.th
+0 1 1 78945 0 0
+-
+pool-72-74-16-58.bstnma.fios.verizon.net
+0 1 1 78945 0 0
+-
+ec2-54-226-178-214.compute-1.amazonaws.com
+0 14016 14016 280320 18 1381355596
+/instagram/callback.php
+131.91.4.51
+0 1 1 709 0 0
+-
+baiduspider-220-181-108-165.crawl.baidu.com
+0 1 1 50039 1 1380928151
+/
+s12.liwio.com
+0 5 5 48227 1 1380702040
+/
+188.208.2.209
+0 1 1 10984 1 1380853015
+/
+ec2-174-129-159-121.compute-1.amazonaws.com
+0 1 0 548 0 0
+-
+fulltextrobot-77-75-77-17.seznam.cz
+0 1 0 0 1 1381066625
+/
+93.159.230.90
+0 10 10 88045 1 1380712309
+/
+static.vdc.vn
+0 20 20 2040691 10 1381357305
+/
+5.10.83.27-static.reverse.softlayer.com
+0 1 1 10984 1 1380666436
+/
+119.63.193.131
+0 2 2 99901 2 1381286434
+/
+ip-86-49-11-23.net.upcbroadband.cz
+0 1 1 78945 0 0
+-
+115.46.88.149
+0 12 12 726429 0 0
+-
+192.150.10.210
+0 26 26 3339021 0 0
+-
+31.13.100.113
+0 2 2 100858 0 0
+-
+128.237.218.7
+0 1 1 78945 0 0
+-
+pd9576212.dip0.t-ipconnect.de
+0 34 34 1898472 0 0
+-
+160.98.6.197
+0 3 1 78945 2 1381222134
+/stt/
+cpe-108-182-86-223.nyc.res.rr.com
+0 1 1 78945 0 0
+-
+119.63.193.195
+0 2 2 100078 2 1380978143
+/
+spider7.mail.ru
+0 1 1 10984 1 1380979900
+/
+crawl-66-249-74-127.googlebot.com
+0 11 7 99904 6 1380718948
+/stt/
+119.63.193.130
+0 1 1 50039 1 1380688686
+/
+host16.server15.vpn999.com
+0 1 1 10984 1 1380746369
+/
+c-76-116-66-141.hsd1.nj.comcast.net
+0 1 1 78945 0 0
+-
+202.46.62.25
+0 1 1 50039 1 1380978098
+/
+ec2-107-22-143-139.compute-1.amazonaws.com
+0 17611 17611 352220 15 1381360906
+/instagram/callback.php
+ool-4577eb3a.dyn.optonline.net
+0 2 1 78945 0 0
+-
+89-73-104-107.dynamic.chello.pl
+0 2 1 79128 1 1381156578
+-
+218.36.252.2
+0 1 1 78945 0 0
+-
+220.181.132.192
+0 6 6 50819 1 1381310157
+/
+host30.server10.vpn999.com
+0 1 1 11022 1 1381337871
+/
+crawl-66-249-78-91.googlebot.com
+0 37 17 181891 16 1381318112
+/
+ec2-50-19-40-125.compute-1.amazonaws.com
+0 11675 11675 233500 10 1381357024
+/instagram/callback.php
+p4ff9397d.dip0.t-ipconnect.de
+0 27 27 1017049 3 1380656045
+/
+ec2-54-235-25-134.compute-1.amazonaws.com
+0 13930 13930 278600 13 1381345946
+/instagram/callback.php
+46.229.164.98
+0 2 1 11181 1 1381067620
+/
+ec2-54-224-230-248.compute-1.amazonaws.com
+0 11383 11383 227660 8 1381360321
+/instagram/callback.php
+162.243.36.219
+0 1 1 0 1 1381342830
+/
+msnbot-157-56-92-157.search.msn.com
+0 1 1 10984 1 1380628315
+/
+dsl-ncr-static-211.66.16.125.airtelbroadband.in
+0 1 1 78945 0 0
+-
+google-proxy-66-249-81-91.google.com
+0 7 7 416693 2 1381232121
+/
+ec2-23-22-29-15.compute-1.amazonaws.com
+0 19800 19800 396000 16 1381356169
+/instagram/callback.php
+93-54-26-103.intechonline.net
+0 1 1 78945 0 0
+-
+dd27614.kasserver.com
+0 7 7 0 7 1381171327
+/cresc/wp/wp-cron.php
+nyufwa-wlessauthclients-05.natpool.nyu.edu
+0 3 3 236835 0 0
+-
+ec2-50-17-248-95.compute-1.amazonaws.com
+0 12533 12533 250660 12 1381354909
+/instagram/callback.php
+nyufwa-guests-01.natpool.nyu.edu
+0 1 1 78945 0 0
+-
+119.63.193.196
+0 1 1 49862 1 1381259200
+/
+69.58.178.59
+0 2 2 100078 1 1380916560
+/
+ec2-107-22-88-199.compute-1.amazonaws.com
+0 13570 13570 271400 9 1381360137
+/instagram/callback.php
+203-158-46-229.dyn.iinet.net.au
+0 16 0 5584 0 0
+-
+baiduspider-123-125-71-85.crawl.baidu.com
+0 1 1 50039 1 1380928058
+/
+msnbot-157-56-93-49.search.msn.com
+0 1 1 10984 1 1381216801
+/
+yeshe-parks.wireless.um.maine.edu
+0 2 2 157890 0 0
+-
+180.149.48.133
+0 57 56 7328627 1 1381306607
+-
+abts-north-dynamic-008.202.173.122.airtelbroadband.in
+0 1 1 78945 0 0
+-
+208.177.76.9.ptr.us.xo.net
+0 1 1 50039 1 1380661254
+/
+crawl-66-249-75-4.googlebot.com
+0 3 2 14144 2 1381243071
+/
+ip-31-205-69-133.ask4internet.com
+0 1 1 78945 0 0
+-
+ec2-50-17-246-114.compute-1.amazonaws.com
+0 13332 13332 266640 14 1381362506
+/instagram/callback.php
+77-73-227-114.xdsl.nextpertise.nl
+0 24 24 1008472 1 1381235765
+/images/noise-white
+83-144-127-202.static.chello.pl
+0 62 62 7308735 1 1381316737
+/images/noise-white
+77-59-236-57.static.cablecom.ch
+0 62 62 7426754 1 1381308590
+/images/noise-white
+115.136.92.125
+0 1 1 78945 0 0
+-
+ec2-50-16-170-151.compute-1.amazonaws.com
+0 17256 17256 345120 11 1381362804
+/instagram/callback.php
+158.223.166.41
+0 1 1 78945 0 0
+-
+ec2-54-227-141-208.compute-1.amazonaws.com
+0 14316 14316 286320 24 1381358937
+/instagram/callback.php
+static-208-80-194-138.as13448.com
+0 1 1 12992 0 0
+-
+msnbot-157-55-34-180.search.msn.com
+0 3 3 32952 3 1380837755
+/
+141.45.130.74
+0 16 16 878703 0 0
+-
+c-76-126-70-86.hsd1.ca.comcast.net
+0 1 1 78945 0 0
+-
+orion.udag.de
+0 300 294 2027759 41 1381358889
+/stt/
+aputeaux-652-1-182-174.w82-124.abo.wanadoo.fr
+0 1 1 50039 1 1380980847
+/
+cpc25-seac19-2-0-cust191.7-2.cable.virginmedia.com
+0 56 56 7328444 0 0
+-
+mi-cip02.et.hs-osnabrueck.de
+0 1 1 78945 0 0
+-
+p5099bc93.dip0.t-ipconnect.de
+0 14 13 491442 1 1381347357
+/zurich/
+ec2-23-20-227-134.compute-1.amazonaws.com
+0 13063 13063 261260 12 1381363031
+/instagram/callback.php
+cable-5-28-70-246.cust.telecolumbus.net
+0 223 223 10992345 10 1381074559
+/images/noise-white
+dslb-088-070-237-120.pools.arcor-ip.net
+0 1 1 78945 0 0
+-
+crawl-66-249-78-202.googlebot.com
+0 19 19 1233165 3 1381308358
+/
+130.225.181.63
+0 1 1 78945 0 0
+-
+173.252.110.115
+0 1 1 78945 0 0
+-
+cpe-98-14-241-195.nyc.res.rr.com
+0 1 1 78945 0 0
+-
+79-114-118-194.rdsnet.ro
+0 1 1 50039 1 1380997625
+/
+173.252.112.118
+0 1 1 78945 0 0
+-
+msnbot-157-55-35-87.search.msn.com
+0 1 1 2773 1 1380769205
+/stt/
+201-51-210-63.user.veloxzone.com.br
+0 1 1 78945 0 0
+-
+pa49-180-155-249.pa.nsw.optusnet.com.au
+0 4 0 1396 0 0
+-
+ec2-107-22-96-25.compute-1.amazonaws.com
+0 11511 11511 230220 14 1381355238
+/instagram/callback.php
+nyufwa-wlessauthclients-08.natpool.nyu.edu
+0 1 1 78945 0 0
+-
+bzq-82-80-244-53.cablep.bezeqint.net
+0 1 1 56152 0 0
+-
+s13.liwio.com
+0 5 5 48227 1 1381040582
+/
+bd7a4399.virtua.com.br
+0 1 1 55695 0 0
+-
+ec2-23-20-141-14.compute-1.amazonaws.com
+0 13712 13712 274240 14 1381353627
+/instagram/callback.php
+snat01-lb25.sgp.ssn.bosch.com
+0 1 1 78945 0 0
+-
+localhost
+0 4 4 83026 1 1380734939
+/stt/
+hosted-by.leaseweb.com
+0 1 1 50039 1 1381046476
+/
+ec2-54-242-20-53.compute-1.amazonaws.com
+0 12848 12848 256960 16 1381355461
+/instagram/callback.php
+5.10.83.33-static.reverse.softlayer.com
+0 1 1 10984 1 1380777381
+/
+5.10.83.44-static.reverse.softlayer.com
+0 2 2 13757 2 1381362151
+/stt/
+ec2-184-73-107-192.compute-1.amazonaws.com
+0 3047 3047 60940 1 1380746835
+/instagram/callback.php
+5ac43965.bb.sky.com
+0 2 1 79128 1 1381190113
+-
+rate-limited-proxy-72-14-199-4.google.com
+0 5 5 247819 1 1381232085
+/
+200.246.143.26
+0 3 3 236835 0 0
+-
+ec2-107-21-138-200.compute-1.amazonaws.com
+0 14265 14265 285300 14 1381358181
+/instagram/callback.php
+baiduspider-180-76-5-51.crawl.baidu.com
+0 1 0 0 1 1380936786
+/
+ec2-50-16-57-201.compute-1.amazonaws.com
+0 13611 13611 272220 15 1381359313
+/instagram/callback.php
+host11.server3.vpn999.com
+0 1 1 10984 1 1380667335
+/
+ynrfktf01.yr.com
+0 38 38 4020594 1 1380730431
+/images/noise-white
+163.120.70.10
+0 1 1 78945 0 0
+-
+ec2-23-21-2-189.compute-1.amazonaws.com
+0 17003 17003 340060 12 1381357861
+/instagram/callback.php
+ec2-54-226-185-180.compute-1.amazonaws.com
+0 14379 14379 287580 16 1381358721
+/instagram/callback.php
+host-197.123.187.194.etisalat.com.eg
+0 33 33 3212612 1 1380777347
+/
+c-50-135-145-13.hsd1.wa.comcast.net
+0 5 1 4169 1 1381291453
+/stt/
+202.46.50.72
+0 1 1 50039 1 1380754807
+/
+abts-north-static-010.25.160.122.airtelbroadband.in
+0 1 1 78945 0 0
+-
+msnbot-157-55-33-20.search.msn.com
+0 2 2 21968 2 1380664575
+/
+p54847783.dip0.t-ipconnect.de
+0 1 1 11022 1 1381307335
+/
+190.237.112.162
+0 4 4 83026 1 1380756189
+/stt/
+121.54.42.149
+0 1 1 78945 0 0
+-
+31.13.100.119
+0 2 2 146259 0 0
+-
+ec2-50-17-246-5.compute-1.amazonaws.com
+0 15375 15375 307500 11 1381361961
+/instagram/callback.php
+ec2-54-227-88-68.compute-1.amazonaws.com
+0 21723 21723 434460 14 1381361683
+/instagram/callback.php
+14.139.65.14
+0 1 1 78945 0 0
+-
+31.13.100.115
+0 1 1 926 0 0
+-
+ool-18be2907.dyn.optonline.net
+0 1 1 78945 0 0
+-
+193.137.168.32
+0 1 1 78945 0 0
+-
+h-203-213.digital.udk-berlin.de
+0 2 2 157890 0 0
+-
+ec2-54-242-198-86.compute-1.amazonaws.com
+0 14051 14051 281020 13 1381360721
+/instagram/callback.php
+dslb-084-062-073-134.pools.arcor-ip.net
+0 25 25 1393658 1 1381233060
+/images/noise-white
+dsl027-144-189.nyc1.dsl.speakeasy.net
+0 15 15 1527092 1 1380814138
+/cresc/wp/
+46.39.244.50
+0 2 2 100078 2 1380889445
+/
+179-48-201-123.static.youbroadband.in
+0 1 1 78945 0 0
+-
+192.241.242.22
+0 24 24 1008472 1 1381333961
+/images/noise-white
+msnbot-65-55-24-217.search.msn.com
+0 1 1 10984 1 1380753691
+/
+69.171.229.117
+0 1 1 78945 0 0
+-
+202.46.63.92
+0 1 1 49862 1 1381286434
+/
+177-102-64-53.dsl.telesp.net.br
+0 1 1 78945 0 0
+-
+c-24-17-240-104.hsd1.wa.comcast.net
+0 56 56 7328444 0 0
+-
+ec2-50-17-245-82.compute-1.amazonaws.com
+0 14667 14667 293340 17 1381361570
+/instagram/callback.php
+5.34.247.125
+0 1 1 10984 1 1380782670
+/
+ec2-107-22-131-236.compute-1.amazonaws.com
+0 14436 14436 288720 20 1381362937
+/instagram/callback.php
+p57a05196.dip0.t-ipconnect.de
+0 40 40 4086112 1 1380716350
+/images/noise-white
+sjfw1.adobe.com
+0 22 22 3352653 0 0
+-
+190.144.166.26
+0 2 1 79128 1 1380913149
+-
+wlangw.udk-berlin.de
+0 1 1 78945 0 0
+-
+173.252.100.114
+0 1 1 1009 1 1381079349
+/zurich/
+ec2-107-22-29-38.compute-1.amazonaws.com
+0 17195 17195 343900 13 1381353697
+/instagram/callback.php
+cpe-68-173-250-106.nyc.res.rr.com
+0 30 30 3924159 0 0
+-
+ec2-54-242-17-42.compute-1.amazonaws.com
+0 11465 11465 229300 15 1381358297
+/instagram/callback.php
+ec2-23-22-93-43.compute-1.amazonaws.com
+0 1 1 50039 1 1380909566
+/
+d53-64-10-147.nap.wideopenwest.com
+0 1 1 78945 0 0
+-
+180.215.98.108
+0 3 1 79311 1 1381211120
+-
+msnbot-199-30-24-0.search.msn.com
+0 7 7 189842 0 0
+-
+ec2-107-21-140-157.compute-1.amazonaws.com
+0 12264 12264 245280 13 1381359491
+/instagram/callback.php
+240.183-240-81.adsl-dyn.isp.belgacom.be
+0 1 1 78945 0 0
+-
+host55-43-dynamic.50-82-r.retail.telecomitalia.it
+0 4 4 83026 1 1380717371
+/stt/
+ec2-107-22-112-157.compute-1.amazonaws.com
+0 12202 12202 244040 8 1381360467
+/instagram/callback.php
+105.red-88-22-201.staticip.rima-tde.net
+0 33 33 3398240 1 1380973492
+/images/noise-white
+ec2-23-20-222-117.compute-1.amazonaws.com
+0 12691 12691 253820 15 1381358523
+/instagram/callback.php
+ip-95-220-156-106.bb.netbynet.ru
+0 6 6 169264 1 1381029916
+/
+cpe-72-230-204-95.stny.res.rr.com
+0 2 2 157890 0 0
+-
+177.20.130.9
+0 1 1 78945 0 0
+-
+ns4006554.ip-198-27-80.net
+0 1 1 49862 1 1381362143
+/
+host.colocrossing.com
+0 2 2 21968 2 1381113153
+/
+f052053013.adsl.alicedsl.de
+0 35 35 3498439 1 1380715027
+/images/noise-white
+193.239.136.27
+0 1 1 78945 0 0
+-
+corporat190-026107154.sta.etb.net.co
+0 1 1 78945 0 0
+-
+img-spider-178-154-243-85.yandex.com
+0 33 0 0 0 0
+-
+203.201.163.122
+0 1 1 11022 1 1381257232
+/
+ec2-54-221-48-111.compute-1.amazonaws.com
+0 13991 13991 279820 14 1381355419
+/instagram/callback.php
+brln-4dba116b.pool.mediaways.net
+0 1 1 78945 0 0
+-
+nat-128-84-124-0-870.cit.cornell.edu
+0 1 1 78945 0 0
+-
+173-25-193-85.client.mchsi.com
+0 1 1 78945 0 0
+-
+bzq-82-80-234-140.cablep.bezeqint.net
+0 1 1 90107 0 0
+-
+spider9.mail.ru
+0 30 30 2204658 0 0
+-
+ip-130-180-33-207.unitymediagroup.de
+0 4 4 83026 1 1380707967
+/stt/
+msnbot-199-30-20-18.search.msn.com
+0 1 1 1121 0 0
+-
+nyufwa-wlessauthclients-07.natpool.nyu.edu
+0 2 2 157890 0 0
+-
+fetcher8-5.p.mail.ru
+0 1 1 7318 1 1380837751
+/stt/
+192.184.48.186
+0 2 2 99901 2 1381352145
+/
+ec2-54-235-227-178.compute-1.amazonaws.com
+0 12521 12521 250420 14 1381358603
+/instagram/callback.php
+113.22.100.60
+0 42 42 4149691 1 1381247099
+/images/noise-white
+msnbot-199-30-16-8.search.msn.com
+0 1 1 115610 0 0
+-
+host-41-196-75-236.static.link.com.eg
+0 1 1 78945 0 0
+-
+rohrfix.udag.de
+0 787 729 5093208 87 1381362267
+-
+18.182.7.15
+0 1 1 78945 0 0
+-
+14.63.184.146
+0 1 1 49862 1 1381312246
+/
+r0.limoges.r-globalnetwork.com
+0 27 27 1020948 1 1380651586
+/images/noise-white
+p57a2357e.dip0.t-ipconnect.de
+0 1 1 90107 0 0
+-
+bzq-82-80-234-136.cablep.bezeqint.net
+0 1 1 110029 0 0
+-
+103.21.127.77
+0 1 1 78945 0 0
+-
+217-162-143-5.dynamic.hispeed.ch
+0 13 13 481852 1 1381079448
+/zurich/
+host-105.200.212.78.etisalat.com.eg
+0 3 0 0 2 1380864477
+/stt/
+msnbot-199-30-20-162.search.msn.com
+0 2 2 112304 0 0
+-
+ec2-50-19-195-75.compute-1.amazonaws.com
+0 13007 13007 260140 9 1381347430
+/instagram/callback.php
+37.203.205.127
+0 1 1 49862 1 1381263101
+/
+mydsl128-137-228.online.com.kh
+0 1 1 604400 0 0
+-
+208-115-111-72-reverse.wowrack.com
+0 1 1 50039 1 1381188512
+/
+bzq-82-80-234-138.cablep.bezeqint.net
+0 5 5 213072 0 0
+-
+218.39.95.68
+0 56 56 6814196 1 1381252668
+/images/noise-white
+ec2-54-242-86-216.compute-1.amazonaws.com
+0 13427 13427 268540 14 1381358048
+/instagram/callback.php
+static.35.139.46.78.clients.your-server.de
+0 22 22 936991 1 1380831200
+/images/noise-white
+115.254.53.9
+0 2 1 79128 1 1381250116
+-
+211.189.56.20
+0 1 1 78945 0 0
+-
+ec2-50-17-241-161.compute-1.amazonaws.com
+0 16514 16514 330280 8 1381345398
+/instagram/callback.php
+mail.mousonturm.de
+0 69 68 7333410 1 1381061408
+/images/noise-white
+host24.server11.vpn999.com
+0 1 1 10984 1 1381054842
+/
+smtp37.adviceforbid.com
+0 1 1 10984 1 1380686634
+/
+host86-132-166-191.range86-132.btcentralplus.com
+0 16 16 878703 0 0
+-
+ec2-54-234-105-15.compute-1.amazonaws.com
+0 14084 14084 281680 13 1381360467
+/instagram/callback.php
+50.23.254.99-static.reverse.softlayer.com
+0 1 1 50039 1 1380736563
+/
+bzq-82-80-234-137.cablep.bezeqint.net
+0 4 4 290874 0 0
+-
+static-208-80-194-127.as13448.com
+0 1 1 12992 0 0
+-
+msnbot-199-30-20-160.search.msn.com
+0 3 3 57559 0 0
+-
+ec2-54-234-246-123.compute-1.amazonaws.com
+0 12164 12164 243280 13 1381354563
+/instagram/callback.php
+static.vdc.com.vn
+0 26 26 1973658 1 1381126460
+/images/noise-white
+88-119-137-126.static.zebra.lt
+0 1 1 78945 0 0
+-
+crawl-66-249-73-210.googlebot.com
+0 2 2 13559 1 1380593139
+/
+210.102.248.98
+0 1 0 349 1 1381116579
+-
+ec2-107-22-58-80.compute-1.amazonaws.com
+0 12910 12910 258200 18 1381356607
+/instagram/callback.php
+cablelink228-104.telefonia.intercable.net
+0 53 53 7021413 0 0
+-
+131.91.4.54
+0 3 3 82317 1 1381335782
+/stt/
+ec2-107-21-155-7.compute-1.amazonaws.com
+0 14841 14841 296820 19 1381363097
+/instagram/callback.php
+ec2-54-205-139-107.compute-1.amazonaws.com
+0 1 1 0 1 1381329643
+/
+46.229.164.99
+0 1 1 10984 1 1381095504
+/
+ec2-54-242-221-60.compute-1.amazonaws.com
+0 13422 13422 268440 9 1381362283
+/instagram/callback.php
+5.10.83.24-static.reverse.softlayer.com
+0 1 1 11022 1 1381332713
+/
+202.49.174.100
+0 3 1 78945 0 0
+-
+ec2-54-242-192-23.compute-1.amazonaws.com
+0 14297 14297 285940 14 1381356389
+/instagram/callback.php
+c-69-141-91-230.hsd1.nj.comcast.net
+0 16 16 956646 0 0
+-
+pd956fed3.dip0.t-ipconnect.de
+0 17 17 949236 0 0
+-
+88.217.181.97
+0 55 55 7249499 0 0
+-
+host-197.123.196.114.etisalat.com.eg
+0 4 4 83026 1 1380691427
+/stt/
+123.151.139.216
+0 2 0 698 2 1380893410
+-
+bzq-219-154-228.static.bezeqint.net
+0 1 1 78945 0 0
+-
+ysh01-251-55.uibk.ac.at
+0 4 2 158256 2 1381004802
+-
+ec2-23-23-30-98.compute-1.amazonaws.com
+0 13665 13665 273300 15 1381361099
+/instagram/callback.php
+pd9eeb012.dip0.t-ipconnect.de
+0 82 81 12531552 1 1380906717
+/hochzeitsfotos/
+101.170.42.167
+0 1 1 78945 0 0
+-
+crawl-66-249-74-25.googlebot.com
+0 1 1 10984 1 1380618424
+/
+crawl-198-27-65-192.meanpathbot.com
+0 1 0 349 0 0
+-
+wsip-174-78-141-83.ri.ri.cox.net
+0 1 1 78945 0 0
+-
+static.88-198-227-103.clients.your-server.de
+0 1 1 50039 1 1381013526
+/
+aftr-88-217-180-142.dynamic.mnet-online.de
+0 6 6 278155 0 0
+-
+126-110.60-188.cust.bluewin.ch
+0 1 1 78945 0 0
+-
+abts-kk-static-192.255.178.122.airtelbroadband.in
+0 64 63 7387846 1 1380898230
+/images/noise-white
+117.192.146.113
+0 1 1 78945 0 0
+-
+ec2-67-202-4-49.compute-1.amazonaws.com
+0 14777 14777 295540 18 1381360807
+/instagram/callback.php
+www.whois.sc
+0 1 1 10984 1 1380795592
+/
+62.160.99.32
+0 1 1 78945 0 0
+-
+e179131024.adsl.alicedsl.de
+0 62 62 7308718 1 1380905893
+/images/noise-white
+180.153.236.149
+0 1 1 10984 1 1381007179
+/
+163.6.190.211
+0 1 1 78945 0 0
+-
+spider-178-154-243-97.yandex.com
+0 112 56 402544 11 1381265093
+/
+31.13.97.118
+0 2 1 1209 1 1381079360
+/zurich/
+hegyesi.atomki.mta.hu
+0 1 1 78945 0 0
+-
+cpe-74-64-60-205.nyc.res.rr.com
+0 1 1 78945 0 0
+-
+ec2-50-17-245-170.compute-1.amazonaws.com
+0 12055 12055 241100 15 1381352192
+/instagram/callback.php
+95.151.46.119
+0 26 26 1720213 1 1380716055
+/images/noise-white
+108.red-80-35-188.staticip.rima-tde.net
+0 2 2 157890 0 0
+-
+ec2-50-17-248-10.compute-1.amazonaws.com
+0 19768 19768 395360 6 1381354863
+/instagram/callback.php
+bzq-82-80-244-58.cablep.bezeqint.net
+0 1 1 1002 0 0
+-
+191.123.56.119.unknown.m1.com.sg
+0 1 1 78945 0 0
+-
+164.198.205.121.broad.pt.fj.dynamic.163data.com.cn
+0 1 1 49862 1 1381334863
+/
+ec2-107-22-75-127.compute-1.amazonaws.com
+0 13418 13418 268360 14 1381360599
+/instagram/callback.php
+host-197.121.136.144.etisalat.com.eg
+0 1 0 0 1 1380731176
+/stt/
+ec2-54-227-26-191.compute-1.amazonaws.com
+0 1 1 10984 1 1380647428
+/
+95-91-242-163-dynip.superkabel.de
+0 36 36 2674378 1 1380798561
+/images/noise-white
+static.110.41.9.5.clients.your-server.de
+0 5 5 156360 1 1381123796
+/
+141.163.235.66
+0 1 1 78945 0 0
+-
+8ta-150-175-146.telkomadsl.co.za
+0 1 1 78945 0 0
+-
+ec2-54-235-22-44.compute-1.amazonaws.com
+0 11798 11798 235960 10 1381356285
+/instagram/callback.php
+50-78-103-105-static.hfc.comcastbusiness.net
+0 19 19 1107126 0 0
+-
+dslb-178-008-110-203.pools.arcor-ip.net
+0 66 66 5106079 2 1381172972
+/images/noise-white
+ec2-184-73-62-189.compute-1.amazonaws.com
+0 16664 16664 333280 15 1381355522
+/instagram/callback.php
+medifix.udag.de
+0 797 755 5395425 85 1381352953
+/
+h88-150-204-69.host.redstation.co.uk
+0 3 3 150117 1 1380725574
+/
+baiduspider-123-125-71-20.crawl.baidu.com
+0 1 1 926 0 0
+-
+ec2-54-234-255-17.compute-1.amazonaws.com
+0 12077 12077 241540 19 1381360347
+/instagram/callback.php
+p4ff93b1a.dip0.t-ipconnect.de
+0 1 1 10984 1 1380878657
+/
+crawl-198-27-82-156.meanpathbot.com
+0 1 0 349 0 0
+-
+78.137.67.77
+0 1 1 78945 0 0
+-
+p4ff0d28c.dip0.t-ipconnect.de
+0 38 38 4011496 1 1380761890
+/images/noise-white
+cpebcc8100a17cd-cmbcc8100a17ca.cpe.net.cable.rogers.com
+0 1 1 78945 0 0
+-
+31.148.246.184
+0 1 1 50039 1 1380868329
+/
+baiduspider-180-76-5-196.crawl.baidu.com
+0 1 1 2575 0 0
+-
+ucm-175-198.wifi.ucm.es
+0 7 4 83575 2 1381195469
+/stt/
+178-83-101-166.dynamic.hispeed.ch
+0 60 60 7411470 1 1381008463
+/stt/
+hsi-kbw-078-043-254-042.hsi4.kabel-badenwuerttemberg.de
+0 1 1 78945 0 0
+-
+ec2-54-226-228-65.compute-1.amazonaws.com
+0 16312 16312 326240 15 1381362800
+/instagram/callback.php
+186.144.2.42
+0 2 1 79128 1 1381179847
+-
+ec2-107-20-103-250.compute-1.amazonaws.com
+0 18960 18960 379200 13 1381357402
+/instagram/callback.php
+msnbot-199-30-20-158.search.msn.com
+0 1 1 55512 0 0
+-
+cpe-108-182-69-26.nyc.res.rr.com
+0 56 56 7328444 0 0
+-
+p548071e7.dip0.t-ipconnect.de
+0 62 62 7369919 0 0
+-
+ec2-107-20-126-107.compute-1.amazonaws.com
+0 14009 14009 280180 14 1381355384
+/instagram/callback.php
+54035902.catv.pool.telekom.hu
+0 57 57 6917714 1 1380740333
+/images/noise-white
+chello080109194228.3.sc-graz.chello.at
+0 62 62 7308718 1 1380665600
+/images/noise-white
+ec2-107-20-86-117.compute-1.amazonaws.com
+0 11647 11647 232940 13 1381360316
+/instagram/callback.php
+203.189.181.135
+0 1 1 78945 0 0
+-
+host13.server13.vpn999.com
+0 1 1 11022 1 1381244385
+/
+ec2-50-17-246-169.compute-1.amazonaws.com
+0 12132 12132 242640 16 1381358984
+/instagram/callback.php
+202.46.50.15
+0 1 1 50039 1 1380933625
+/
+141.45.130.73
+0 21 21 1466376 0 0
+-
+msnbot-65-55-215-62.search.msn.com
+0 1 1 1121 0 0
+-
+rrcs-24-136-125-113.nyc.biz.rr.com
+0 1 1 78945 0 0
+-
+baiduspider-180-76-5-186.crawl.baidu.com
+0 1 1 11022 1 1381320834
+/
+msnbot-199-30-25-161.search.msn.com
+0 7 7 189842 0 0
+-
+c-50-159-68-52.hsd1.wa.comcast.net
+0 1 1 78945 0 0
+-
+pool-96-246-56-17.nycmny.east.verizon.net
+0 4 4 83026 1 1380778112
+/stt/
+67.70.13.191
+0 1 1 78945 0 0
+-
+ec2-54-211-50-48.compute-1.amazonaws.com
+0 14088 14088 281760 16 1381360791
+/instagram/callback.php
+ec2-54-226-199-92.compute-1.amazonaws.com
+0 20278 20278 405560 6 1381354356
+/instagram/callback.php
+abts-north-static-205.117.176.122.airtelbroadband.in
+0 3 3 236835 0 0
+-
+117.216.107.37
+0 1 1 78945 0 0
+-
+95-91-255-209-dynip.superkabel.de
+0 1 1 78945 0 0
+-
+nyufwa-wlessauthclients-04.natpool.nyu.edu
+0 1 1 78945 0 0
+-
+newschl6503.n.subnet.rcn.com
+0 1 1 78945 0 0
+-
+69.171.234.119
+0 1 1 78945 0 0
+-
+203-174-170-132.cust.static-ipl.aapt.com.au
+0 24 24 1008472 1 1381278285
+/images/noise-white
+mail.sintlukas.be
+0 3 2 158073 1 1380883498
+-
+designstud111.dhstud.umu.se
+0 2 1 79128 1 1381166362
+-
+145.24.251.29
+0 1 1 78945 0 0
+-
+msnbot-199-30-20-159.search.msn.com
+0 1 1 1121 0 0
+-
+dsl-187-207-248-240-dyn.prod-infinitum.com.mx
+0 1 1 78945 0 0
+-
+46-140-18-154.static.cablecom.ch
+0 62 62 7308735 1 1381308263
+/images/noise-white
+4.red-88-7-170.staticip.rima-tde.net
+0 1 1 78945 0 0
+-
+ec2-174-129-153-110.compute-1.amazonaws.com
+0 7500 7500 150000 12 1381353159
+/instagram/callback.php
+220.181.132.195
+0 6 6 50819 1 1381299431
+/
+ec2-54-226-119-37.compute-1.amazonaws.com
+0 14469 14469 289380 13 1381360188
+/instagram/callback.php
+1.236.118.134
+0 23 22 937340 1 1381144315
+/images/noise-white
+194-166-85-88.adsl.highway.telekom.at
+0 2 1 79128 1 1381152798
+-
+ec2-107-20-60-72.compute-1.amazonaws.com
+0 13512 13512 270240 9 1381361283
+/instagram/callback.php
+71.83.191.101
+0 4 4 83026 1 1380680899
+/stt/
+nicholas-w-lee-4.um.maine.edu
+0 1 1 78945 0 0
+-
+p5485d111.dip0.t-ipconnect.de
+0 23 23 937922 1 1380637635
+/images/noise-white
+bzq-82-80-244-57.cablep.bezeqint.net
+0 2 2 116536 0 0
+-
+89.123.47.29
+0 19 16 963596 1 1381034841
+-
+baiduspider-180-76-5-138.crawl.baidu.com
+0 1 0 0 1 1381036980
+/
+baiduspider-180-76-5-56.crawl.baidu.com
+0 1 0 0 1 1380737425
+/
+87-205-217-120.adsl.inetia.pl
+0 1 1 50039 1 1381008771
+/
+ec2-50-16-132-243.compute-1.amazonaws.com
+0 19377 19377 387540 10 1381350435
+/instagram/callback.php
+39.red-79-159-207.staticip.rima-tde.net
+0 1 1 78945 0 0
+-
+119.149.142.114
+0 1 0 349 1 1380653241
+-
+31.13.100.118
+0 2 2 165724 0 0
+-
+24-134-58-93-dynip.superkabel.de
+0 1021 724 40210188 14 1381324861
+/zurich/
+192.119.148.70
+0 1 1 11022 1 1381296302
+/
+121.54.32.134
+0 1 1 78945 0 0
+-
+aftr-88-217-180-70.dynamic.mnet-online.de
+0 5 5 343127 0 0
+-
+129.108.202.50
+0 8 4 83026 2 1380773377
+/stt/
+ec2-54-235-15-201.compute-1.amazonaws.com
+0 1 1 10984 1 1380867666
+/
+ec2-67-202-34-24.compute-1.amazonaws.com
+0 12306 12306 246120 10 1381362380
+/instagram/callback.php
+s1.960.clients.serverdeals.org
+0 1 0 183 1 1381115323
+-
+37.19.108.25
+0 1 1 110029 0 0
+-
+188.227.224.197
+0 1 1 50039 1 1380690650
+/
+220.181.132.219
+0 2 2 99724 2 1381310103
+/
+ec2-54-234-107-88.compute-1.amazonaws.com
+0 11308 11308 226160 12 1381348209
+/instagram/callback.php
+msnbot-199-30-20-157.search.msn.com
+0 2 2 56621 0 0
+-
+ec2-54-221-44-196.compute-1.amazonaws.com
+0 14829 14829 296580 15 1381359920
+/instagram/callback.php
+188.29.164.190.threembb.co.uk
+0 1 1 10984 1 1380730518
+/
+host31.server13.vpn999.com
+0 1 1 10984 1 1381197254
+/
+121.54.54.134
+0 1 1 78945 0 0
+-
+48.inst-3.ufg.ac.at
+0 3 1 79311 1 1381247258
+-
+ec2-184-73-100-250.compute-1.amazonaws.com
+0 13470 13470 269400 10 1381357222
+/instagram/callback.php
+ec2-50-17-246-15.compute-1.amazonaws.com
+0 13014 13014 260280 12 1381363155
+/instagram/callback.php
+msnbot-157-55-32-187.search.msn.com
+0 7 7 76888 7 1381184248
+/
+google-proxy-66-249-84-127.google.com
+0 1 1 78945 0 0
+-
+pacenet.66.115.203.in-addr.arpa
+0 1 1 78945 0 0
+-
+209-114-36-166.static.cloud-ips.com
+0 4 0 1396 1 1380859265
+-
+p5de95e5d.dip0.t-ipconnect.de
+0 29 29 2570886 1 1381237365
+/images/noise-white
+c-24-60-190-234.hsd1.ma.comcast.net
+0 1 1 78945 0 0
+-
+abts-mum-dynamic-179.67.170.122.airtelbroadband.in
+0 3 1 79311 1 1380961178
+-
+198.105.67.121
+0 1 1 78945 0 0
+-
+ec2-54-227-118-232.compute-1.amazonaws.com
+0 15366 15366 307320 15 1381354233
+/instagram/callback.php
+31.13.100.117
+0 1 1 94975 0 0
+-
+bzq-79-176-191-181.red.bezeqint.net
+0 1 1 78945 0 0
+-
+aftr-88-217-180-144.dynamic.mnet-online.de
+0 7 7 340545 0 0
+-
+194.171.57.20
+0 1 1 78945 0 0
+-
+h-254-50.scoutjet.com
+0 1 1 10987 1 1381233161
+/
+59.90.167.251
+0 2 2 157890 0 0
+-
+ec2-107-20-31-62.compute-1.amazonaws.com
+0 14476 14476 289520 11 1381362531
+/instagram/callback.php
+89.204.135.230
+0 16 13 491442 1 1381340375
+/zurich/
+128.237.219.134
+0 1 1 78945 0 0
+-
+msnbot-157-55-32-39.search.msn.com
+0 1 0 0 1 1380694505
+/
+193.67.24.103
+0 20 20 1055903 1 1381248202
+/images/noise-white
+mail125.anonymouse.org
+0 1 1 78945 0 0
+-
+fulltextrobot-test-77-75-74-41.seznam.cz
+0 2 0 0 2 1380632257
+/
+202.46.56.44
+0 1 1 49862 1 1381259145
+/
+95-91-234-126-dynip.superkabel.de
+0 27 27 2155170 1 1381158422
+/images/noise-white
+ec2-107-20-124-110.compute-1.amazonaws.com
+0 13384 13384 267680 17 1381348673
+/instagram/callback.php
+draco.udag.de
+0 358 334 2431653 49 1381362267
+/stt/
+msnbot-157-56-92-149.search.msn.com
+0 1 1 10984 1 1380886180
+/
+ec2-54-243-24-16.compute-1.amazonaws.com
+0 13239 13239 264780 15 1381353082
+/instagram/callback.php
+5.10.83.63-static.reverse.softlayer.com
+0 1 1 2773 1 1380790771
+/stt/
+bl17-28-210.dsl.telepac.pt
+0 4 4 83026 1 1380763472
+/stt/
+166.78.156.111
+0 5 5 171630 1 1381285086
+/
+115.251.32.187
+0 5 5 94010 1 1381232033
+/
+180.153.236.130
+0 1 1 10984 1 1381030026
+/
+google-proxy-66-249-81-202.google.com
+0 27 27 756209 2 1381233810
+/
+202.46.53.68
+0 1 1 50039 1 1380688686
+/
+h005.hlfs.bf1.yahoo.com
+0 24 24 1008455 1 1381137612
+/images/noise-white
+117.26.118.241
+0 1 1 50039 1 1380932627
+/
+static.7.78.9.176.clients.your-server.de
+0 23 23 937922 1 1380606915
+/images/noise-white
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ec2-54-226-215-150.compute-1.amazonaws.com
+0 9 9 180 6 1381361888
+/instagram/callback.php
+google-proxy-66-249-83-4.google.com
+0 1 1 11022 1 1381308086
+/
+ec2-54-224-20-191.compute-1.amazonaws.com
+0 7 7 140 4 1381362201
+/instagram/callback.php
+212.34.185.62
+0 23 23 937939 1 1381310998
+/images/noise-white
+183.96.93.117
+0 1 1 78945 0 0
+-
+ec2-54-221-19-51.compute-1.amazonaws.com
+0 9 9 180 5 1381355864
+/instagram/callback.php
+msnbot-131-253-26-246.search.msn.com
+0 2 2 13614 1 1381357408
+/
+mx-ll-180.183.18-190.dynamic.3bb.co.th
+0 1 1 78945 0 0
+-
+pool-72-74-16-58.bstnma.fios.verizon.net
+0 1 1 78945 0 0
+-
+ec2-54-226-178-214.compute-1.amazonaws.com
+0 11 11 220 7 1381355596
+/instagram/callback.php
+131.91.4.51
+0 1 1 709 0 0
+-
+static.vdc.vn
+0 2 2 22044 2 1381357305
+/
+119.63.193.131
+0 1 1 49862 1 1381286434
+/
+ec2-107-22-143-139.compute-1.amazonaws.com
+0 10 10 200 10 1381360906
+/instagram/callback.php
+220.181.132.192
+0 6 6 50819 1 1381310157
+/
+host30.server10.vpn999.com
+0 1 1 11022 1 1381337871
+/
+crawl-66-249-78-91.googlebot.com
+0 9 5 28889 3 1381318112
+/
+ec2-50-19-40-125.compute-1.amazonaws.com
+0 6 6 120 4 1381357024
+/instagram/callback.php
+ec2-54-235-25-134.compute-1.amazonaws.com
+0 8 8 160 6 1381345946
+/instagram/callback.php
+ec2-54-224-230-248.compute-1.amazonaws.com
+0 2 2 40 1 1381360321
+/instagram/callback.php
+162.243.36.219
+0 1 1 0 1 1381342830
+/
+dsl-ncr-static-211.66.16.125.airtelbroadband.in
+0 1 1 78945 0 0
+-
+google-proxy-66-249-81-91.google.com
+0 1 1 78945 0 0
+-
+ec2-23-22-29-15.compute-1.amazonaws.com
+0 7 7 140 7 1381356169
+/instagram/callback.php
+ec2-50-17-248-95.compute-1.amazonaws.com
+0 10 10 200 5 1381354909
+/instagram/callback.php
+ec2-107-22-88-199.compute-1.amazonaws.com
+0 4 4 80 4 1381360137
+/instagram/callback.php
+yeshe-parks.wireless.um.maine.edu
+0 1 1 78945 0 0
+-
+180.149.48.133
+0 57 56 7328627 1 1381306607
+-
+ec2-50-17-246-114.compute-1.amazonaws.com
+0 8 8 160 7 1381362506
+/instagram/callback.php
+83-144-127-202.static.chello.pl
+0 62 62 7308735 1 1381316737
+/images/noise-white
+77-59-236-57.static.cablecom.ch
+0 62 62 7426754 1 1381308590
+/images/noise-white
+ec2-50-16-170-151.compute-1.amazonaws.com
+0 7 7 140 5 1381362804
+/instagram/callback.php
+ec2-54-227-141-208.compute-1.amazonaws.com
+0 21 21 420 13 1381358937
+/instagram/callback.php
+static-208-80-194-138.as13448.com
+0 1 1 12992 0 0
+-
+orion.udag.de
+0 57 57 407013 9 1381358889
+/stt/
+p5099bc93.dip0.t-ipconnect.de
+0 14 13 491442 1 1381347357
+/zurich/
+ec2-23-20-227-134.compute-1.amazonaws.com
+0 11 11 220 8 1381363031
+/instagram/callback.php
+crawl-66-249-78-202.googlebot.com
+0 2 2 105997 1 1381308358
+/
+173.252.110.115
+0 1 1 78945 0 0
+-
+ec2-107-22-96-25.compute-1.amazonaws.com
+0 7 7 140 5 1381355238
+/instagram/callback.php
+ec2-23-20-141-14.compute-1.amazonaws.com
+0 7 7 140 7 1381353627
+/instagram/callback.php
+snat01-lb25.sgp.ssn.bosch.com
+0 1 1 78945 0 0
+-
+ec2-54-242-20-53.compute-1.amazonaws.com
+0 13 13 260 10 1381355461
+/instagram/callback.php
+5.10.83.44-static.reverse.softlayer.com
+0 1 1 2773 1 1381362151
+/stt/
+200.246.143.26
+0 2 2 157890 0 0
+-
+ec2-107-21-138-200.compute-1.amazonaws.com
+0 10 10 200 7 1381358181
+/instagram/callback.php
+ec2-50-16-57-201.compute-1.amazonaws.com
+0 11 11 220 11 1381359313
+/instagram/callback.php
+ec2-23-21-2-189.compute-1.amazonaws.com
+0 6 6 120 5 1381357861
+/instagram/callback.php
+ec2-54-226-185-180.compute-1.amazonaws.com
+0 8 8 160 7 1381358721
+/instagram/callback.php
+c-50-135-145-13.hsd1.wa.comcast.net
+0 3 1 3471 1 1381291453
+/stt/
+abts-north-static-010.25.160.122.airtelbroadband.in
+0 1 1 78945 0 0
+-
+p54847783.dip0.t-ipconnect.de
+0 1 1 11022 1 1381307335
+/
+ec2-50-17-246-5.compute-1.amazonaws.com
+0 6 6 120 6 1381361961
+/instagram/callback.php
+ec2-54-227-88-68.compute-1.amazonaws.com
+0 6 6 120 5 1381361683
+/instagram/callback.php
+ec2-54-242-198-86.compute-1.amazonaws.com
+0 11 11 220 8 1381360721
+/instagram/callback.php
+192.241.242.22
+0 24 24 1008472 1 1381333961
+/images/noise-white
+202.46.63.92
+0 1 1 49862 1 1381286434
+/
+ec2-50-17-245-82.compute-1.amazonaws.com
+0 9 9 180 7 1381361570
+/instagram/callback.php
+ec2-107-22-131-236.compute-1.amazonaws.com
+0 10 10 200 7 1381362937
+/instagram/callback.php
+ec2-107-22-29-38.compute-1.amazonaws.com
+0 5 5 100 5 1381353697
+/instagram/callback.php
+ec2-54-242-17-42.compute-1.amazonaws.com
+0 9 9 180 8 1381358297
+/instagram/callback.php
+ec2-107-21-140-157.compute-1.amazonaws.com
+0 8 8 160 6 1381359491
+/instagram/callback.php
+ec2-107-22-112-157.compute-1.amazonaws.com
+0 7 7 140 6 1381360467
+/instagram/callback.php
+ec2-23-20-222-117.compute-1.amazonaws.com
+0 9 9 180 9 1381358523
+/instagram/callback.php
+ns4006554.ip-198-27-80.net
+0 1 1 49862 1 1381362143
+/
+ec2-54-221-48-111.compute-1.amazonaws.com
+0 6 6 120 6 1381355419
+/instagram/callback.php
+192.184.48.186
+0 1 1 49862 1 1381352145
+/
+ec2-54-235-227-178.compute-1.amazonaws.com
+0 5 5 100 5 1381358603
+/instagram/callback.php
+rohrfix.udag.de
+0 49 45 344484 11 1381362267
+-
+14.63.184.146
+0 1 1 49862 1 1381312246
+/
+ec2-50-19-195-75.compute-1.amazonaws.com
+0 5 5 100 4 1381347430
+/instagram/callback.php
+mydsl128-137-228.online.com.kh
+0 1 1 604400 0 0
+-
+ec2-54-242-86-216.compute-1.amazonaws.com
+0 9 9 180 7 1381358048
+/instagram/callback.php
+ec2-50-17-241-161.compute-1.amazonaws.com
+0 5 5 100 3 1381345398
+/instagram/callback.php
+ec2-54-234-105-15.compute-1.amazonaws.com
+0 17 17 340 8 1381360467
+/instagram/callback.php
+static-208-80-194-127.as13448.com
+0 1 1 12992 0 0
+-
+ec2-54-234-246-123.compute-1.amazonaws.com
+0 4 4 80 4 1381354563
+/instagram/callback.php
+88-119-137-126.static.zebra.lt
+0 1 1 78945 0 0
+-
+ec2-107-22-58-80.compute-1.amazonaws.com
+0 11 11 220 8 1381356607
+/instagram/callback.php
+131.91.4.54
+0 3 3 82317 1 1381335782
+/stt/
+ec2-107-21-155-7.compute-1.amazonaws.com
+0 13 13 260 10 1381363097
+/instagram/callback.php
+ec2-54-205-139-107.compute-1.amazonaws.com
+0 1 1 0 1 1381329643
+/
+ec2-54-242-221-60.compute-1.amazonaws.com
+0 5 5 100 3 1381362283
+/instagram/callback.php
+5.10.83.24-static.reverse.softlayer.com
+0 1 1 11022 1 1381332713
+/
+ec2-54-242-192-23.compute-1.amazonaws.com
+0 9 9 180 8 1381356389
+/instagram/callback.php
+bzq-219-154-228.static.bezeqint.net
+0 1 1 78945 0 0
+-
+ec2-23-23-30-98.compute-1.amazonaws.com
+0 9 9 180 8 1381361099
+/instagram/callback.php
+wsip-174-78-141-83.ri.ri.cox.net
+0 1 1 78945 0 0
+-
+ec2-67-202-4-49.compute-1.amazonaws.com
+0 12 12 240 9 1381360807
+/instagram/callback.php
+spider-178-154-243-97.yandex.com
+0 3 0 0 0 0
+-
+ec2-50-17-245-170.compute-1.amazonaws.com
+0 14 14 280 8 1381352192
+/instagram/callback.php
+ec2-50-17-248-10.compute-1.amazonaws.com
+0 2 2 40 2 1381354863
+/instagram/callback.php
+164.198.205.121.broad.pt.fj.dynamic.163data.com.cn
+0 1 1 49862 1 1381334863
+/
+ec2-107-22-75-127.compute-1.amazonaws.com
+0 7 7 140 7 1381360599
+/instagram/callback.php
+ec2-54-235-22-44.compute-1.amazonaws.com
+0 6 6 120 6 1381356285
+/instagram/callback.php
+50-78-103-105-static.hfc.comcastbusiness.net
+0 19 19 1107126 0 0
+-
+ec2-184-73-62-189.compute-1.amazonaws.com
+0 12 12 240 9 1381355522
+/instagram/callback.php
+medifix.udag.de
+0 69 66 583514 8 1381352953
+/
+ec2-54-234-255-17.compute-1.amazonaws.com
+0 9 9 180 8 1381360347
+/instagram/callback.php
+ec2-54-226-228-65.compute-1.amazonaws.com
+0 8 8 160 8 1381362800
+/instagram/callback.php
+ec2-107-20-103-250.compute-1.amazonaws.com
+0 8 8 160 8 1381357402
+/instagram/callback.php
+ec2-107-20-126-107.compute-1.amazonaws.com
+0 10 10 200 7 1381355384
+/instagram/callback.php
+ec2-107-20-86-117.compute-1.amazonaws.com
+0 12 12 240 9 1381360316
+/instagram/callback.php
+203.189.181.135
+0 1 1 78945 0 0
+-
+ec2-50-17-246-169.compute-1.amazonaws.com
+0 8 8 160 7 1381358984
+/instagram/callback.php
+baiduspider-180-76-5-186.crawl.baidu.com
+0 1 1 11022 1 1381320834
+/
+ec2-54-211-50-48.compute-1.amazonaws.com
+0 12 12 240 10 1381360791
+/instagram/callback.php
+ec2-54-226-199-92.compute-1.amazonaws.com
+0 4 4 80 2 1381354356
+/instagram/callback.php
+abts-north-static-205.117.176.122.airtelbroadband.in
+0 3 3 236835 0 0
+-
+95-91-255-209-dynip.superkabel.de
+0 1 1 78945 0 0
+-
+69.171.234.119
+0 1 1 78945 0 0
+-
+203-174-170-132.cust.static-ipl.aapt.com.au
+0 24 24 1008472 1 1381278285
+/images/noise-white
+dsl-187-207-248-240-dyn.prod-infinitum.com.mx
+0 1 1 78945 0 0
+-
+46-140-18-154.static.cablecom.ch
+0 62 62 7308735 1 1381308263
+/images/noise-white
+ec2-174-129-153-110.compute-1.amazonaws.com
+0 11 11 220 7 1381353159
+/instagram/callback.php
+220.181.132.195
+0 6 6 50819 1 1381299431
+/
+ec2-54-226-119-37.compute-1.amazonaws.com
+0 5 5 100 4 1381360188
+/instagram/callback.php
+ec2-107-20-60-72.compute-1.amazonaws.com
+0 7 7 140 6 1381361283
+/instagram/callback.php
+ec2-50-16-132-243.compute-1.amazonaws.com
+0 6 6 120 6 1381350435
+/instagram/callback.php
+24-134-58-93-dynip.superkabel.de
+0 127 63 2934627 1 1381324861
+/zurich/
+192.119.148.70
+0 1 1 11022 1 1381296302
+/
+ec2-67-202-34-24.compute-1.amazonaws.com
+0 7 7 140 6 1381362380
+/instagram/callback.php
+220.181.132.219
+0 2 2 99724 2 1381310103
+/
+ec2-54-234-107-88.compute-1.amazonaws.com
+0 7 7 140 7 1381348209
+/instagram/callback.php
+ec2-54-221-44-196.compute-1.amazonaws.com
+0 7 7 140 5 1381359920
+/instagram/callback.php
+ec2-184-73-100-250.compute-1.amazonaws.com
+0 8 8 160 6 1381357222
+/instagram/callback.php
+ec2-50-17-246-15.compute-1.amazonaws.com
+0 16 16 320 8 1381363155
+/instagram/callback.php
+pacenet.66.115.203.in-addr.arpa
+0 1 1 78945 0 0
+-
+ec2-54-227-118-232.compute-1.amazonaws.com
+0 5 5 100 5 1381354233
+/instagram/callback.php
+ec2-107-20-31-62.compute-1.amazonaws.com
+0 4 4 80 4 1381362531
+/instagram/callback.php
+89.204.135.230
+0 16 13 491442 1 1381340375
+/zurich/
+ec2-107-20-124-110.compute-1.amazonaws.com
+0 12 12 240 9 1381348673
+/instagram/callback.php
+draco.udag.de
+0 66 60 375362 7 1381362267
+/stt/
+ec2-54-243-24-16.compute-1.amazonaws.com
+0 7 7 140 7 1381353082
+/instagram/callback.php
+166.78.156.111
+0 5 5 171630 1 1381285086
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://spyline.de/florian-schulz
+0 2
+http://nevvkid.dropmark.com/29733/1443258
+0 1
+http://www.google.ch/url
+0 4
+http://forum.processing.org/one/topic/speech-to-text.html
+0 98
+http://whois.domaintools.com/florianschulz.info
+1 1
+https://www.google.com.eg/
+0 4
+http://go.mail.ru/search_images
+0 10
+https://www.google.at/
+0 3
+http://forum.processing.org/topic/combining-voice-recognition-code-with-sound-visualisation
+0 3
+http://ntuts.com/tong-hop/website-cua-tuan-84
+0 1
+http://florianschulz.info/zurich/
+1 203
+http://www.getflourish.com/stt/
+0 14
+http://www.google.com/url
+0 22
+http://florianschulz.info./
+1 5
+http://spyline.de/genre/portfolio/page/7
+0 1
+http://florianschulz.info/here/screen.php
+1 6
+https://www.google.pt/
+0 1
+http://getflourish.com/style.css
+0 16
+http://www.getflourish.com/
+0 899
+http://designcharts.com/
+0 1
+http://www.google.com/search
+0 8
+http://forum.processing.org/topic/voce-library-speech-recognition
+0 6
+http://www.netcraft.com/survey/
+0 2
+http://florianschulz.info/snowviz/
+1 7
+http://florianschulz.info/
+1 1377
+http://us-mg6.mail.yahoo.com/neo/launch
+0 3
+http://studentshow.com/getflourish
+0 1
+http://www.google.be/url
+0 3
+http://www.stt.getflourish.com/style.css
+0 8
+http://www.stt.getflourish.com/
+0 196
+https://www.google.com/
+0 7
+- (Direct Request)
+0 1017980
+www.getflourish.com
+0 3
+http://getflourish.com/stats/usage_201309.html
+0 3
+http://www.google.de/url
+0 9
+http://www.getflourish.com
+0 3
+http://www.kimdirector.co.kr/bbs/view.php
+0 3
+http://www.youtube.com/watch
+0 2
+http://de.search.yahoo.com/search
+0 1
+http://www.google.co.in/url
+0 3
+http://florianschulz.info/cresc/wp/
+1 14
+http://getflourish.com/
+0 532
+http://florianschulz.info
+1 4
+https://www.google.de/
+0 3
+http://stt.getflourish.com/
+0 499
+http://www.sogou.com/sogou
+0 3
+http://www.florianschulz.info/here/here.html
+1 299
+http://forum.processing.org/topic/using-dmxp512-in-p5-1-5
+0 3
+http://t.co/WIz3XCBdhS
+0 1
+http://www.dertagundich.de
+0 3
+http://www.behance.net/getflourish
+0 1
+http://www.florianschulz.info/
+1 421
+https://www.google.co.kr/
+0 3
+https://www.google.es/url
+0 3
+https://www.google.co.th/
+0 3
+http://getflourish.com
+0 3
+http://www.florianschulz.info/here/print.php
+1 6
+http://images.search.yahoo.com/images/view
+0 1
+https://m.facebook.com
+0 3
+http://getflourish.com/blog/
+0 3
+http://florianschulz.info/here/print.php
+1 6
+http://yandex.ru/yandsearch
+0 4
+http://florianschulz.info/hochzeitsfotos/style.css
+1 2
+http://forum.processing.org/topic/microphone-volume-detection
+0 12
+http://www.brandigg.de/buch/UEber-Fotografie-von-Susan-Sontag
+0 1
+http://dribbble.com/getflourish
+0 1
+http://florianschulz.info/style.css
+1 48
+http://florianschulz.info/here/here.html
+1 69
+http://www.florianschulz.info
+1 1
+http://www.eightlines.com/blog/2013/01/robobrrd-and-voice-commands/
+0 3
+http://florianschulz.info/stt/
+1 42
+http://www.designmadeingermany.de/verzeichnis/designer/webdesigner/
+0 2
+http://www.facebook.com/l.php
+0 1
+http://forum.processing.org/topic/speech-to-text
+0 34
+http://www.designmadeingermany.de/verzeichnis/designer/interfacedesigner/
+0 1
+http://florianschulz.info/hochzeitsfotos/
+1 79
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+1 42
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+1 3
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0
+1 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/536.29.13 (KHTML, like Gecko) Version/6.0.4 Safari/536.29.13
+1 2
+Mozilla/5.0 (compatible; coccoc/1.0; +http://help.coccoc.com/)
+0 10
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+1 3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7; en-us) AppleWebKit/533.4 (KHTML, like Gecko) Version/4.1 Safari/533.4
+1 23
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/536.28.10 (KHTML, like Gecko) Version/6.0.3 Safari/536.28.10
+1 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1665.2 Safari/537.36
+1 10
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 10
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.7.39 Version/11.00
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/536.30.1 (KHTML, like Gecko) QuickLook/4.0
+0 10
+Twitterbot/1.0
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+1 1
+Spider: Googlebot
+2 159
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/28.0.1500.52 Chrome/28.0.1500.52 Safari/
+1 12
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9B206 [FBAN/FBIOS;FBAV/6.3;FBBV/
+0 37
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1496.0 Safari/537.36
+1 10
+Googlebot
+1 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12
+1 3
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 89
+Opera/9.80 (Windows NT 6.0; U; ru) Presto/2.10.289 Version/12.02
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:24.0) Gecko/20100101 Firefox/24.0
+1 54
+Mozilla/5.0 (iPad; CPU OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/10B141 Safari/8
+1 1
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:15.0) Gecko/20100101 Firefox/15.0.1
+1 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+1 7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20100101 Firefox/17.0
+1 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+1 48
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+1 99
+SeznamBot/3.0 (+http://fulltext.sblog.cz/)
+0 1
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:24.0) Gecko/20100101 Firefox/24.0
+1 77
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+0 51
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9) Gecko/2008052906 Firefox/3.0
+1 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko; Google Web Preview) Chrome/22.0.1229 Safari/537.4
+1 64
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50728)
+1 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SV1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.0.04506.648)
+1 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+1 10
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 47
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+1 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+1 221
+Mozilla/5.0 (Windows NT 5.1; rv:8.0) Gecko/20100101 Firefox/8.0
+1 24
+Mozilla/4.0 (CMS Crawler: http://www.cmscrawler.com)
+0 4
+http://Anonymouse.org/ (Unix)
+0 10
+Java/1.6.0_04
+0 19
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 34
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; OfficeLiveConnector.1.
+1 10
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; BOIE9;ENCA)
+1 1
+Mozilla/5.0 (compatible; CareerBot/1.1; +http://www.career-x.de/bot.html)
+0 15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+1 77
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.24) Gecko/20111103 Firefox/3.6.24
+1 77
+Google-Personal
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
+1 51
+Mozilla/5.0 (compatible; SISTRIX Crawler; http://crawler.sistrix.net/)
+0 15
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 10
+Mozilla/5.0 (Linux; Android 4.1.2; GT-I9300 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Mobile S
+0 20
+Browser: MSIE
+2 247
+Mozilla/5.0 (Android; Mobile; rv:21.0) Gecko/21.0 Firefox/21.0
+1 1
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+1 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0
+1 3
+Mozilla/5.0 (Windows NT 6.1; rv:19.0) Gecko/20100101 Firefox/19.0
+1 15
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 101
+Browser: Firefox
+2 838
+Mozilla/5.0 (compatible; Blekkobot; ScoutJet; +http://blekko.com/about/blekkobot)
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 86
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+1 1
+Mozilla/5.0 (X11; Linux x86_64; rv:2.0b9pre) Gecko/20110111 Firefox/4.0b9pre
+1 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A501 Sa
+0 191
+Opera/9.99 (Windows NT 5.1; U; pl) Presto/9.9.9
+1 1
+Baiduspider-image+(+http://www.baidu.com/search/spider.htm)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322)
+1 6
+Spider: MSN Bot
+2 39
+Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Firefox/24.0
+1 64
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+1 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+1 121
+Opera/9.80 (Windows NT 6.1; Win64; x64) Presto/2.12.388 Version/12.10
+1 3
+matchbot (+http://matchbox.net)
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:22.0) Gecko/20100101 Firefox/22.0
+1 10
+Mozilla/5.0 (compatible; MJ12bot/v1.4.4; http://www.majestic12.co.uk/bot.php?+)
+1 1
+Mozilla/5.0 (X11; CrOS i686 4319.96.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.74 Safari/537.36
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X) Word/14.36.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+1 69
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+1 2
+Mozilla/5.0 (Windows NT 6.1; rv:15.0) Gecko/20100101 Firefox/15.0.1
+1 23
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0
+1 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.40607;  .NET CLR 3.0.30729;  .NE
+1 9
+Mozilla/4.0 (compatible;)
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36 Squider/0.01
+1 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)
+1 4
+Googlebot-Image/1.0
+1 32
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:24.0) Gecko/20100101 Firefox/24.0
+1 128
+Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20120403211507 Firefox/12.0
+1 10
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+1 157
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.84 Safari/535.11 SE 2.X MetaSr 1.0
+1 3
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0;
+1 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.8 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.8
+1 49
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+1 6
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.10.289 Version/12.01
+1 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+1 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+1 116
+Wotbox/2.01 (+http://www.wotbox.com/bot/)
+0 3
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 18
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+1 5
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
+1 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31
+1 1
+Mozilla/5.0 (compatible; Mail.RU/2.0c)
+0 20
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 7
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+1 6
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+1 3
+Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp) NOT Firefox/3.5
+1 24
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90)
+1 9
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+1 23
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+1 4
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36
+1 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/534.56.5 (KHTML, like Gecko) Version/5.1.6 Safari/534.56.5
+1 28
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+1 3
+Mozilla/5.0 (compatible; SiteExplorer/1.0b; +http://siteexplorer.info/)
+0 3
+Mozilla/6.0 (compatible)
+0 6
+Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)
+0 18
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+1 3
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 21
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+1 2
+Mozilla/5.0 (iPad; CPU OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A501
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+1 6
+Spider: Yahoo
+2 24
+Scrapy/0.18.2 (+http://scrapy.org)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.112 Safari/534.30
+1 1
+Opera/9.80 (Windows NT 6.1; MRA 6.0 (build 5970)) Presto/2.12.388 Version/12.10
+1 3
+YisouSpider
+0 3
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322
+1 20
+Mozilla/5.0 (compatible) Feedfetcher-Google;(+http://www.google.com/feedfetcher.html)
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+1 319
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+1 27
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+1 40
+WordPress/3.5.1; http://florianschulz.info/cresc/wp
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.52.7 (KHTML, like Gecko) Version/5.1.2 Safari/534.52.7
+1 24
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+1 10
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+1 8
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B
+0 35
+Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.2
+1 98
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+1 8
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+1 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.
+1 18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+1 13
+Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.5
+1 1
+Java/1.7.0_40
+0 4
+nutch-1.4/Nutch-1.4
+0 3
+Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+1 2
+Mozilla/5.0 (compatible; Sosospider/2.0; +http://help.soso.com/webspider.htm)
+0 20
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+1 36
+Mozilla/5.0 (compatible; X11; Linux x86_64; Google-StructuredDataTestingTool; +http://www.google.com/webmasters/tools/richsni
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.90 Safari/537.1
+1 6
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6
+1 3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 (FlipboardProxy/1.1; +http://flip
+1 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
+1 1261
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.2; .NET CLR 2.0.50727; doyo 2.6.1; SE 2.X MetaSr 1.0)
+1 27
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 56
+Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1
+1 3
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0
+1 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+1 44
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.75 Safari/537.1
+1 5
+Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; LG; LG-E900)
+1 4
+Python-httplib2/0.7.4 (gzip)
+0 1017384
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+1 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+1 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B350 Safa
+0 15
+Mozilla/5.0 (compatible; SEOkicks-Robot +http://www.seokicks.de/robot.html)
+0 27
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7
+1 24
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+1 5
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+1 9
+Browser: Safari
+2 4079
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
+1 236
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7 (via ggpht.com)
+1 5
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; MRA 6.0 (build 6005); User-agent: Mozilla/4.0 (compat
+1 3
+Mozilla/5.0 (compatible; SearchmetricsBot; http://www.searchmetrics.com/en/searchmetrics-bot/)
+0 5
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+1 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.11 (KHTML, like Gecko) DumpRenderTree/0.0.0.0 Safari/536.11
+1 30
+ZumBot/1.0 (ZUM Search; http://help.zum.com/inquiry)
+0 3
+Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
+0 9
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+0 1
+Mozilla/5.0 (compatible; SemrushBot/0.97; +http://www.semrush.com/bot.html)
+0 12
+Mozilla/5.0 (Windows NT 5.1; rv:17.0) Gecko/20100101 Firefox/17.0
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+1 139
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36
+1 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) Qt/4.8.1 Safari/534.34
+1 40
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.5) Gecko/2008121623 Ubuntu/8.10 (intrepid)Firefox/3.0.5
+1 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+1 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B146 Safa
+0 39
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+1 242
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+1 70
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+1 1
+Spider: MJ12bot
+2 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+1 1
+Mozilla/5.0 (Windows NT 5.1; rv:23.0) Gecko/20100101 Firefox/23.0
+1 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1662.2 Safari/537.36
+1 62
+Python-urllib/2.6
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; MAXTHON 2.0)
+1 3
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-
+1 14
+Browser: Opera
+2 14
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.136
+1 3
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/13.0.782.215)
+1 3
+Mozilla/5.0 (compatible) Feedfetcher-Google; (+http://www.google.com/feedfetcher.html)
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google (+https://developers.google.com/+/web/snippet/)
+1 38
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+1 12
+Mozilla/5.0 (Windows NT 5.1; rv:25.0) Gecko/20100101 Firefox/25.0
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+1 13
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+1 69
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0
+1 2
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.7) Gecko/2009031915 Gentoo Firefox/3.0.7
+1 9
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322)
+1 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+1 17
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
+1 23
+Mozilla/5.0 (X11; Linux x86_64; rv:18.0) Gecko/20100101 Firefox/18.0
+1 4
+Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+1 2
+Mozilla/5.0 (compatible; SeznamBot/3.1-test1; +http://fulltext.sblog.cz/)
+0 2
+Mozilla/5.0 (compatible; EasouSpider; +http://www.easou.com/search/spider.html)
+0 18
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:23.0) Gecko/20100101 Firefox/23.0
+1 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; ; NCLIENT50_AAP29210B69BF3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Sa
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17
+1 13
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)
+1 3
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+1 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+1 41
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.7
+1 10
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.8.0.11)  Firefox/1.5.0.11; 360Spider
+1 8
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+1 32
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+1 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+1 71
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 62
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.91 Safari/537.11
+1 3
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+1 16
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+1 12
+# End Of Table - agents
+# -search strings- 
+florian schulz
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

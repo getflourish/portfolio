@@ -1,0 +1,131 @@
+.img1, .img2 {
+    width: 70%;
+    -moz-transition: opacity 0.2s ease-in-out;
+    -webkit-transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
+}
+
+@media only screen
+and (min-width : 768px)
+{
+    .img1, .img2 {
+        width: 100%;
+    }
+
+}
+
+.img2 {
+    opacity: 0;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#portrait {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 120px;
+    position: relative;
+}
+
+@media only screen
+and (min-width : 768px)
+{
+    #portrait {
+        margin-top: 0;
+    }
+
+}
+
+#portrait:hover .img2 {
+    opacity: 1;
+}
+
+/*  Mega wrapper */
+.megawrapper {
+    height: 2em;
+    overflow: hidden;
+}
+.megawrapper-content {
+    position: relative;
+    -moz-transition: top 0.3s ease-in-out;
+    -webkit-transition: top 0.3s ease-in-out;
+    transition: top 0.3s ease-in-out;
+}
+.megawrapper-top {
+    top: -2.5em;
+}
+a:hover .megawrapper-content {
+    text-decoration: none;
+    top: -2.5em;
+}
+.subline {
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #555;
+    margin-bottom: 0px;
+}
+.zacken-oben {
+    background: transparent url("../images/zacken-inverse-gelb.png") -13px 0px repeat-x;
+    width: 100%;
+    height: 15px;
+    position: relative;
+    top: 0px;
+    z-index: 70;
+    margin-top: 0px;
+    float: left;
+}
+
+.zacken-unten {
+    background: transparent url("../images/zacken-inverse-gelb.png") -13px 0px repeat-x;
+    width: 100%;
+    height: 13px;
+    position: relative;
+    bottom: 23px;
+    z-index: 111;
+}
+
+#start-wrap {
+    position: fixed;
+}
+
+
+#portfolio {
+    position: absolute;
+}
+
+#spacer {
+    height: 1px;
+    position: relative;
+    z-index: 99;
+}
+#start {
+    position: relative;
+    z-index: 98;
+    top: 100px;
+    margin: auto 2em;
+    text-align: center;
+}
+#start h1 {
+    color: #333;
+}
+#teaser {
+    margin-top: 10px;
+}
+#zacken {
+    background: transparent url("../images/zacken-gelb.png") repeat-x;
+    width: 100%;
+    height: 15px;
+    position: absolute;
+    bottom: 11px;
+    z-index: 80;
+}
+#zacken2 {
+    background: transparent url("../images/zacken-gelb.png") repeat-x;
+    width: 100%;
+    height: 15px;
+    position: absolute;
+    bottom: -14px;
+    z-index: 80;
+    display: none;
+}
