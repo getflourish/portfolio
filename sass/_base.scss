@@ -3,17 +3,37 @@ h1, h2 {
 }
 h1 {
     color: #fc0;
-    font-size: 2em;
-    line-height: 1.2em;
+    font-size: 1.4em;
+    line-height: 1em;
     font-style: italic;
+    margin: 0.3em 0;
+}
+
+@media only screen
+and (min-width : 768px)
+{
+    h1 {
+        font-size: 3em;
+        line-height: 1em;  
+    }
 }
 
 h2 {
-    font-size: 1.5em;
-    line-height: 1.3em;
+    font-size: 1.3em;
+    line-height: 1.1em;
     font-style: italic;
     font-weight: normal;
-    margin-top: 1em;
+    max-width: 30em;
+    margin: 0 auto;
+}
+
+@media only screen
+and (min-width : 768px)
+{
+    h2 {
+        font-size: 1.875em;
+        line-height: 1.3em;
+    }
 }
 
 h3 {
@@ -24,13 +44,18 @@ h3 {
 h4 {
     font-weight: 700;
     color: #333;
-    font-size: 1em;
+    font-size: 0.75em;
     line-height: 1.3em;
     margin-bottom: 10px;
 }
 
 h5 {
     font-size: 1.3em;
+    color: #333;
+}
+
+a {
+    text-decoration: none;
     color: #333;
 }
 
