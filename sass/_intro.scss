@@ -1,5 +1,5 @@
 .img1, .img2 {
-    width: 70%;
+    width: 100%;
     -moz-transition: opacity 0.2s ease-in-out;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
@@ -22,10 +22,11 @@ and (min-width : 768px)
 }
 
 #portrait {
-    max-width: 400px;
     margin: 0 auto;
-    margin-top: 120px;
     position: relative;
+    display: inline-block;
+    width: 70%;
+    max-width: 400px;
 }
 
 @media only screen
@@ -33,6 +34,7 @@ and (min-width : 768px)
 {
     #portrait {
         margin-top: 0;
+        max-width: 400px;
     }
 
 }
@@ -53,18 +55,30 @@ and (min-width : 768px)
     transition: top 0.3s ease-in-out;
 }
 .megawrapper-top {
-    top: -2.5em;
+    top: -2em;
 }
 a:hover .megawrapper-content {
     text-decoration: none;
-    top: -2.5em;
+    top: -2em;
 }
-.subline {
-    text-transform: uppercase;
-    font-size: 12px;
-    color: #555;
-    margin-bottom: 0px;
+
+@media only screen
+and (min-width : 768px)
+{
+    .megawrapper {
+        height: 4em;
+    }
+
+    .megawrapper-top {
+        top: -4em;
+    }
+    a:hover .megawrapper-content {
+        text-decoration: none;
+        top: -4em;
+    }
+
 }
+
 .zacken-oben {
     background: transparent url("../images/zacken-inverse-gelb.png") -13px 0px repeat-x;
     width: 100%;
@@ -99,14 +113,14 @@ a:hover .megawrapper-content {
     position: relative;
     z-index: 99;
 }
-#start {
+#slide-content {
     position: relative;
     z-index: 98;
     top: 100px;
     margin: auto 2em;
     text-align: center;
 }
-#start h1 {
+#slide-content h1 {
     color: #333;
 }
 #teaser {
@@ -128,4 +142,38 @@ a:hover .megawrapper-content {
     bottom: -14px;
     z-index: 80;
     display: none;
+}
+
+#intro ul li {
+    width: 100%;
+    margin: 1em 0 !important;
+    padding: 0 !important;
+}
+#intro .info-title {
+    color: #222;
+    text-transform: uppercase;
+}
+#intro .info-content {
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+.superlink {
+    line-height: 1em;
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+}
+.superlink-item {
+    display: block;
+}
+.superlink-content {
+    position: relative;
+    -moz-transition: top 0.2s ease-in;
+    -webkit-transition: top 0.2s ease-in;
+    transition: top 0.2s ease-in;
+}
+a:hover .superlink-content{
+    top: -8em;
+    text-decoration: none;
 }

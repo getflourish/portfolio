@@ -21,16 +21,25 @@ body {
     font-family: "facitweb", "ff-meta-serif-web-pro", "Helvetica Neue", "Helvetica", "Arial", sans-serif; 
     font-weight:500; 
     font-style:normal;
-    font-size: 12px;
+    font-size: 13px;
     line-height: 18px;
     text-rendering:optimizeLegibility;
     -webkit-font-smoothing: antialiased;
 }
 
+@media only screen
+and (min-width : 768px)
+{
+    body {
+        font-size: 16px;
+    }
+
+}
+
 p {
     padding-bottom: 1em;
     margin-bottom: 1em;
-    font-size: 1.5em;
+    font-size: 1em;
     font-weight: 500;
     line-height: 1.5em;
 }
@@ -45,26 +54,35 @@ p strong {
 
 a {
     position: relative;
-    color: #ffcc00;
+    color: #333;
     font-weight: 700;
     text-decoration: none;
     -webkit-transition: color 0.1s ease-in;
     -moz-transition: color 0.1s ease-in;
     transition: color 0.1s ease-in;
 }
+
+li a {
+    border-bottom: 2px solid #ffcc00;
+}
 a:hover {
-    text-decoration: none;    
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: none;
+    border: 0;
 }
 
 #main a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    border: 0;
 }
 
 
 
 article {
     width: 100%;
-    margin-top: 20px;
     float: left;
 }
 
@@ -93,7 +111,7 @@ footer {
 
 /* Selectors */
 
-#bg {
+#slide {
     z-index: 200;
     height: 100%;
     width: 100%;
@@ -113,6 +131,14 @@ footer {
     top: 0px;
     clear: both;
 }
+@media only screen
+and (min-width : 768px)
+{
+    #main {
+        width: 600px;
+    }
+
+}
 
 /* Classes */
 
@@ -130,42 +156,13 @@ footer {
     float: left;
 }
 
-#intro .info-title {
-    color: #222;
-    text-transform: uppercase;
-}
-#intro .info-content {
-    font-style: normal;
-    text-transform: uppercase;
-}
-
-
-/*  Super wrapper */
-.superwrapper {
-    height: 1.3em;
-    overflow: hidden;
-}
-.superlink {
-    position: relative;
-    text-align: center;
-    overflow: hidden;
-}
-.superlink-item {
-    display: block;
-}
-.superlink-content {
-    position: relative;
-    -moz-transition: top 0.2s ease-in;
-    -webkit-transition: top 0.2s ease-in;
-    transition: top 0.2s ease-in;
-}
-a:hover .superlink-content{
-    top: -1.3em;
-    text-decoration: none;
-}
-
 iframe {
     border: 0;
-    box-shadow: 0px 0px 1px rgba(0,0,0,0.3), 0 0 0 10px #ddd;
-    width: 100%;
+    box-shadow: 0px 0px 1px rgba(0,0,0,0.3), 0 0 0 1px #ddd;
+    max-width: 100%;
+}
+
+
+#contact {
+    padding-bottom: 20px;
 }

@@ -2,6 +2,7 @@
     z-index: 90;
     position: relative;
     padding: 0px 2em;
+    overflow: hidden;
 }
 
 @media only screen
@@ -9,10 +10,18 @@ and (min-width : 768px)
 {
     #projects {
         font-size: 1em;
-        width: 620px;
+        width: 600px;
         margin: 0 auto;
+        padding: 0;
     }
 
+}
+
+#projects h1 {
+    font-size: 2.5em;
+}
+#projects h2, #projects p.first {
+    color: #777;
 }
 
 #projects .project-intro a:hover img {
@@ -28,23 +37,23 @@ and (min-width : 768px)
     padding: 40px 0px;
     width: 100%;
 }
-#projects .project-intro h1 {
-    /* text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.1); */
-}
 #projects .project-intro ul {
     position: relative;
-    margin-top: 10px;
+    margin: 3em 0 0em;
     display: inline-block;
-    border-top: 1px dashed #666;
     text-align: center;
+    width: 100%;
+    padding: 1em 0;
+    border-top: 1px dashed #bbb;
+    border-bottom: 1px dashed #bbb;
 }
 #projects .project-intro ul li {
-    font-size: 1.2em;
-    line-height: 1.3em;
-    padding: 0 15px;
-    margin: 10px;
+    font-size: 0.875em;
+    line-height: 2em;
+    padding: 0;
     color: #555;
     text-align: center;
+    width: 100%;
 }
 
 @media only screen
@@ -53,8 +62,15 @@ and (min-width : 768px)
     #projects .project-intro ul li {
         padding: 0 15px;
         margin: 10px;
+        width: auto;
     }
 
+}
+
+.list-full-width li {
+    width: 100% !important;
+    margin: 1em 0 !important;
+    padding: 0 !important;
 }
 
 #projects .project-details {
@@ -63,17 +79,16 @@ and (min-width : 768px)
     padding: 40px 0px;
 }
 #projects .project-details p {
-    font-size: 1.3em;
     margin: 10px auto;
 }
 #projects .first {
     font-weight: 700;
-    font-size: 1.6em !important;
-    line-height: 1.4em;
+    font-size: 1.1875em !important;
+    line-height: 1.6em;
 }
 #projects .project-details p img {
     position: relative;
-    box-shadow: 0px 0px 1px rgba(0,0,0,0.3), 0 0 0 1px #eee;
+    box-shadow: 0px 0px 1px rgba(0,0,0,0.3), 0 0 1px #eee;
     -moz-transition: box-shadow 0.1s ease-out, left 0.2s 0.3s ease-in-out;
     -webkit-transition: box-shadow 0.1s ease-out, left 0.2s 0.3s ease-in-out;
     transition: box-shadow 0.1s ease-out, left 0.2s 0.3s ease-in-out;
@@ -81,13 +96,14 @@ and (min-width : 768px)
     background-position: 50% 50%;
     width: 100%;
     height: auto;
+    margin-bottom: 1em;
 }
 
 @media only screen
 and (min-width : 768px)
 {
-    #projects .project-details p img {
-        box-shadow: 0px 0px 1px rgba(0,0,0,0.3), 0 0 0 10px #ddd;
+    #projects .project-details p img  {
+        height: auto;
     }
 
 }
@@ -101,6 +117,7 @@ and (min-width : 768px)
     margin: 0 auto;
     text-align: center;
     width: 100%;
+    -webkit-box-sizing: border-box;
 }
 #project-preview-grid .project-preview-description, .project-preview-title {
     display: inline;
@@ -119,9 +136,12 @@ and (min-width : 768px)
     padding: 10px;
     position: absolute;
     top: 0px;
+
     background: rgba(0,0,0,0.7);
     overflow: hidden;
     width: 260px;
+
+    font-size: 1em;
     -moz-transition: top 0.4s ease-in-out, opacity 0.4s ease-in-out;
     -webkit-transition: top 0.3s ease-out, opacity 0.6s ease-out;
     transition: top 0.4s ease-in-out, opacity 0.4s ease-in-out;
@@ -139,19 +159,16 @@ and (min-width : 768px)
 }
 #project-preview-grid .project-preview-description {
     color: #fff;
-    font-size: 14px;
     line-height: 18px;
     display: none;
+    display: inline;
+    text-align: left;
 }
 
 #project-preview-grid .project-preview-title {
     color: #ffcc00;
     display: inline-block;
-}
-#project-preview-grid .project-preview-description {
-    font-size: 1.2em !important;
-    display: inline;
-    text-align: left;
+    font-size: 1em;
 }
 #project-preview-grid .project-preview p {
     padding: 0;
@@ -188,12 +205,19 @@ and (min-width : 768px)
 }
 #project-preview-grid .masked {
     overflow: hidden;
-    margin: 14px 26px 14px 0px;
+    margin: 14px 17px 14px 0px;
     -moz-transition: box-shadow 0.1s ease-in;
     -webkit-transition: box-shadow 0.1s ease-in;
     transition: box-shadow 0.1s ease-in;
-    box-shadow: 0px 1px 1px rgba(0,0,0,0.3);
+    box-shadow: 0px 1px 1px rgba(0,0,0,0.3); 
 }
 #project-preview-grid .masked:hover {
     box-shadow: 0px 1px 1px rgba(0,0,0,0.3), 0 0 0 10px rgba(0,0,0,0.1);
+}
+
+.subline {
+    text-transform: uppercase;
+    font-size: 0.75em;
+    color: #555;
+    margin-bottom: 0px;
 }

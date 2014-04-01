@@ -1,71 +1,18 @@
 $(document).ready(function() {
 
-    // Lazyload.js will load images when needed and before they are visible in the viewport
+    /**
+     * Lazyload images is good for long scrolling pages ;)
+     */
+
     $("img").lazyload({
-        threshold: 1000,
+        threshold: 2000,
         effect: "fadeIn"
     });
 
-    // Set up nav highlight
-    var current = $('#nav-projects');
-    var currentProject = $('#projects');
-
-    // Progress indicator to show how much you’ve already seen
-    $(window).scroll(function() {
-        var scrollY = $(window).scrollTop();
-        var projectHeight = currentProject.outerHeight();
-        var bottom = currentProject.offset().top + projectHeight;
-        var percentage = 1 - ((scrollY - bottom) / projectHeight) * -1;
-        var x = -200 + current.outerWidth() * percentage;
-        current.css('background-position', x + 'px');
-    });
-
-    // Highlight the project that is in the viewport
-    $('article').each(
-        function(intIndex) {
-
-            $(this).waypoint(function(event, direction) {
-
-                var name = $(this).attr('id');
-
-                if (direction == 'down') {
-                    if (current != '#nav-' + name) {
-
-                        current.removeClass('selected');
-                        current.addClass('striked');
-                        history.replaceState("", name, location.pathname + "#" + name);
-
-                        // scroll indicator
-
-                        current.css('background-position', '0px');
-                        currentProject = $(this);
-                        current = $('#nav-' + name);
-                        current.addClass('selected');
-                        current.removeClass('striked');
-                    }
-                    // up
-                } else {
-                    current = $('#nav-' + name);
-                    current.removeClass('selected');
-                    current = $('nav li a h3:eq(' + (intIndex) + ')');
-                    current.css('background-position', '-200px 0px');
-
-                    if (intIndex > 0) currentProject = $('#projects article:eq(' + (intIndex - 1) + ')');
-
-                    name = currentProject.attr('id');
-                    history.replaceState("", name, location.pathname + "#" + name);
-                    current = $('#nav-' + name);
-                    current.addClass('selected');
-                    current.removeClass('striked');
-                }
-            }, {
-                offset: 40
-            }, {
-                continuous: true
-            }, {
-                context: '#main'
-            })
-        });
+    /**
+     * Set up smooth scrolling transitions for navigation links.
+     * All links with the class 'scrollPage' will use the transition.
+     */
 
     // Clicking an anchor will smoothly scroll to the target
     $('.scrollPage').click(function() {
@@ -80,92 +27,247 @@ $(document).ready(function() {
         return false;
     });
 
-    // Slider at the beginning of the page
-    var vh = $(window).height();
-    var vw = $(window).width();
+    function onResize() {
 
-    // magic number
-    var introH = $('#intro .project-intro').outerHeight();
-    var magic = vh - 60 - introH;
+        // Height of the "Zacken"
+        zh = 25;
 
-    if (magic < $('#start').height()) {
-        magic = vh - introH;
+        // Hard coded padding between slide and intro
+        pad = 60;
+
+        // misleading naming of the wrapping container that holds everthing below the yellow slideContent
+        contentWrap = $("#start-wrap");
+
+        // Let’s get the height of the window, so we can scale the yellow slideContent accordingly
+        windowHeight = $(window).height();
+
+        // Vertically center the content inside the slide
+        startTop = (windowHeight - slideContent.height()) / 2;
+        slideContent.css('top', startTop + 'px');
+
+        // Height of the introduction
+        introH = $('#intro .project-intro').height();
+
+        // Scale the slide to fit the window.
+        slide.height(windowHeight - zh);
+
+        // Remember the slide height
+        var slideHeight = slide.outerHeight();
+
+        // Let’s offset the main content by the height of the intro section.
+        // The intro will be positioned at the lower part of the screen, initally hidden, then revealed after a bit of scrolling.
+        var mainOffset = windowHeight - startTop;
+        contentWrap.css('margin-top', mainOffset + 'px');
+
+        // magic number
+        var magic = windowHeight - 60 - introH;
+
+        if (magic < slideContent.height()) {
+            magic = windowHeight - introH;
+        }
+
+        // Position the Zacken at the bottom of the slide
+        $('#zacken').css('top', slideHeight + 'px');
+
+        // Scale the contact to the window height so we can scroll the contact / highlight it in the nav
+        $('#contact').css('height', windowHeight + 'px');
+
+
+        // To be able to scroll the page when it is fixed, we need to make it virtually taller.
+        // So we need to know the calculated height of the page and then add a static element to the page that will be offset
+        // by that amount. Otherwise the page would only be as tall as the height of the viewport and we wouldn’t be able to
+        // scroll and rip off the slideContent at the beginning.
+        // We will add an empty container to calculated bottom of the page.
+
+        contentHeight = contentWrap.outerHeight();
+        $("#spacer").css('top', contentHeight - windowHeight + "px");
     }
 
-    // offset content by the height of the yellow slide
-    var mainOffset = vh + $("#portrait").css("margin-top");
-    $('#main').css('margin-top', mainOffset + 'px');
 
-    $('#start').height(vh);
-    var startTop = (vh - 577) / 2;
-    $('#start').css('top', startTop + 'px');
-    var bla = vh + 40;
-    var ph = $('#start-wrap').outerHeight();
-    var sum = ph + bla;
-    var foo = $('#bg').outerHeight();
-    var contact = $('#contact').outerHeight();
-    $("#spacer").css('top', sum + magic - vh + "px");
-    $("#portfolio").css('top', foo - 60 + 'px');
+    /**
+     * Calculations for the curtain effect at the top of the page.
+     * We will have a yellow slideContent that will rip off the bottom, move up and reveal some facts about my life.
+     * When all information is unvealed, the main content will begin to move as the user scrolls.
+     */
 
+    var contentHeight;
+    var contentWrap;
+    var introH;
+    var pad;
+    var startTop;
+    var windowHeight;
+    var zh;
+
+    // Let’s get access to some important elements
+    var main = $("#main");
+    var slide = $("#slide");
+    var slideContent = $("#slide-content");
+    var zacken = $("#zacken");
+
+    if ($(window).width() > 768) {
+
+        // Initially call onResize to calculate all relevant sizes related to the viewport
+        onResize();
+
+        // window resize
+        $(window).resize(function() {
+            onResize();
+        });
+
+        // The scroll position of my portrait will loosen the page or make it sticky again.
+        // Don’t do this on Mobile, as we can’t get touchmove for now
 
         $('#portrait').waypoint(function(direction) {
             if (direction == "down") {
-                $('#start-wrap').css('position', 'relative');
-                $('#start-wrap').css('top', startTop + introH + 'px');
+                contentWrap.css('position', 'relative');
+                contentWrap.css('top', startTop + 'px');
                 $('footer').addClass("footer-hidden");
             } else {
-                $('#start-wrap').css('position', 'fixed');
-                $('#start-wrap').css('top', '0px');
+                contentWrap.css('position', 'fixed');
+                contentWrap.css('top', 0 + 'px');
                 $('footer').removeClass("footer-hidden");
             }
         }, {
             offset: 0
         });
 
-    // show / hide navigation
-    $('#intro').waypoint(function(direction) {
-        if (direction == "down") {
-            $('nav #nav-main').addClass('nav-visible');
-        } else {
-            $('nav #nav-main').removeClass('nav-visible');
-        }
-    }, {
-        offset: -500,
-        scrollThrottle: 200
-    });
-
-    // hack
-    $('#bg').css('height', vh - 25);
-
-    // window resize
-    $(window).resize(function() {
-        var main = $('#main');
-        var vh = $(window).height();
-        $('#bg').css('height', vh - 25);
-        $('#zacken').css('top', vh - 25 + 'px');
-        var introH = $('#intro .project-intro').outerHeight();
-        var magic = vh - 60 - introH;
-        main.css('margin-top', magic + 'px');
-        $('#contact').css('height', vh + 'px');
-        startTop = (vh - 577) / 2;
-        $('#start').css('top', startTop + 'px');
-    });
-
-    $('#portrait').hover(
-        function() {
-            $('.megawrapper-content').addClass('megawrapper-top');
-        },
-        function() {
-            $('.megawrapper-content').removeClass('megawrapper-top');
+        // show / hide navigation
+        $('#intro').waypoint(function(direction) {
+            if (direction == "down") {
+                $('nav #nav-main').addClass('nav-visible');
+            } else {
+                $('nav #nav-main').removeClass('nav-visible');
+            }
+        }, {
+            offset: -500,
+            scrollThrottle: 200
         });
-    $('.opener').each(function() {
-        $(this).click(function() {
-            $("html:not(:animated),body:not(:animated)").animate({
-                scrollTop: introH
-            }, 500);
+
+        $('#portrait').hover(
+            function() {
+                $('.megawrapper-content').addClass('megawrapper-top');
+            },
+            function() {
+                $('.megawrapper-content').removeClass('megawrapper-top');
+            });
+        $('.opener').each(function() {
+            $(this).click(function() {
+                $("html:not(:animated),body:not(:animated)").animate({
+                    scrollTop: introH + zh
+                }, 500);
+            });
         });
-    });
+
+        /**
+         * Fancy progress indicators that highlight the current project in the navigation
+         */
+
+        // Current is the highlighted link in the navigation. It’s the id of the project with a 'nav-' prefix.
+        var current = $('#nav-projects');
+
+        // Current project is the actual project in the main content area.
+        var currentProject = $('#projects');
+
+        // Progress indicator to show how much you’ve already seen
+        $(window).scroll(function() {
+
+            // The absolute current scroll position
+            var scrollY = $(window).scrollTop();
+
+            // The height of the current project is needed so we know how much progress we’ve made
+            var projectHeight = currentProject.outerHeight();
+
+            // We need to know where the current project ends
+            var bottom = currentProject.offset().top + projectHeight;
+
+            // So we can finally calculate the ratio.
+            var percentage = 1 - ((scrollY - bottom) / projectHeight) * -1;
+
+            // We use a background image for the highlight and simply change its position based on the progress.
+            // We start with x = -200 and shift it based on the length of the width of the navigation text and the progress we’ve made
+            var x = -200 + current.outerWidth() * percentage;
+            current.css('background-position', x + 'px');
+        });
+
+        /*
+         * Logic to figure out what project is in the viewport and should be highlighted
+         */
+
+        $('article').each(
+            function(intIndex) {
+
+                $(this).waypoint(function(direction) {
+
+                    var name = $(this).attr('id');
+
+                    // Hack to ensure the scroll indicators are working properly - not sure why onResize() is not enough
+                    $(window).trigger('resize');
+
+                    if (direction == 'down') {
+
+                        // When we scroll down and reach a project, let’s select this one and strike through the previous one.
+                        if (current != '#nav-' + name) {
+
+                            current.removeClass('selected');
+                            current.addClass('striked');
+                            history.replaceState("", name, location.pathname + "#" + name);
+
+                            // scroll indicator
+
+                            current.css('background-position', '0px');
+                            currentProject = $(this);
+                            current = $('#nav-' + name);
+                            current.addClass('selected');
+                            current.removeClass('striked');
+                        }
+                        // up
+                    } else {
+                        current = $('#nav-' + name);
+                        current.removeClass('selected');
+                        current = $('nav li a h3:eq(' + (intIndex) + ')');
+                        current.css('background-position', '-200px 0px');
+
+                        if (intIndex > 0) currentProject = $('#projects article:eq(' + (intIndex - 1) + ')');
+
+                        name = currentProject.attr('id');
+                        history.replaceState("", name, location.pathname + "#" + name);
+                        current = $('#nav-' + name);
+                        current.addClass('selected');
+                        current.removeClass('striked');
+                    }
+                }, {
+                    offset: 40
+                }, {
+                    continuous: true
+                }, {
+                    context: '#main'
+                })
+            });
+    } else {
+        // misleading naming of the wrapping container that holds everthing below the yellow slideContent
+        contentWrap = $("#start-wrap");
+
+        // Let’s get the height of the window, so we can scale the yellow slideContent accordingly
+        windowHeight = $(window).height();
+
+        slideContent = $("#slide-content");
+        var slideHeight = slide.outerHeight();
+
+        // Vertically center the content inside the slide
+        startTop = (windowHeight - slideContent.height()) / 2;
+        slideContent.css('top', startTop + 'px');
+        // Make the page static
+        contentWrap.css('position', 'relative');
+        contentWrap.css('top', windowHeight + 'px');
+
+        // Position the Zacken at the bottom of the slide
+        $('#zacken').css('top', slideHeight + 'px');
+
+        // Hide the footer on mobile
+        $('footer').addClass("footer-hidden");
+    }
+
+    // Refresh Waypoints after resize event
     $.waypoints('refresh');
-
-    $('#contact').css('height', vh + 'px');
+    $(window).trigger('resize');
 });
